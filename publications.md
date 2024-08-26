@@ -227,6 +227,9 @@ in Multimedia Tools and Applications, Springer Science+Business Media B.V. (Form
 A Novel Obsolescence-based Approach to Event Delivery Synchronization in Multiplayer Games,
 in International Journal of Intelligent Games and Simulation, Vol. 3, No. 1, 7-19, March/April 2004. [bib]
 
+
+
+
 # Book Chapters
 
 - M. Zichichi, S. Ferretti, G. D'Angelo, "Blockchain-based Data Management for Smart Transportation'', in Handbook of Blockchain, Tran, D.A., Thai, M.T., Krishnamachari, B. (eds), Springer Optimization and Its Applications, vol 194. Springer, Cham. https://doi-org.ezproxy.unibo.it/10.1007/978-3-031-07535-3_20. 
@@ -294,7 +297,14 @@ in Encyclopedia of Information Science and Technology, I-V, (Mehdi Khosrow-Pour 
 Delivering Music over the Wireless Internet: from Song Distribution to Interactive Karaoke on UMTS Devices,
 in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Furht, M. Ilyas eds.), CRC Press, Boca Raton (USA), March 2003, 537-565 [bib]
 
+
+
+
 # International Conferences & Workshops
+
+- S. Ferretti, G. D'Angelo, V. Ghini, "[On the Use of Heterogeneous Graph Neural Networks for Detecting Malicious Activities: a Case Study with Cryptocurrencies](https://dl.acm.org/doi/10.1145/3677117.3685009)'', in Proc. of the 4th International Workshop on Open Challenges in Online Social Networks - ACM Hypertext & Social Media 2024, ACM, September 2024, Poznan, Poland.
+
+- M. Furini, M. Mariani, S. Montagna, S. Ferretti, "Conversational Skills of LLM-based Healthcare Chatbot for Personalized Communications", in Proc. of the International Conference on Information Technology for Social Good 2024, ACM, September 2024, Bremen, Germany.
 
 - L. Cassano, J. D'Abramo, S. Munir, S. Ferretti,
 "Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems",
