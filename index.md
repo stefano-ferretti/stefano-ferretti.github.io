@@ -3,6 +3,8 @@ layout: page
 title: ":~$ whoami"
 ---
 
+![Pic](badge.jpeg)
+
 Stefano Ferretti<br>
 [Full professor](https://www.unibo.it/sitoweb/s.ferretti) @ [University of Bologna](https://www.unibo.it/it) in computer science
 
