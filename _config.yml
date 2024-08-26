@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html"}
   - {title: "Publications", file: "publications.md"}
   - {title: "Teaching", file: "teaching.md"}
-  - {title: "Istitutaional", url: "https://www.unibo.it/sitoweb/s.ferretti"}
+  - {title: "Istitutional", url: "https://www.unibo.it/sitoweb/s.ferretti"}
   
   
 
