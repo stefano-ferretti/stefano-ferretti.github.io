@@ -3,7 +3,7 @@ layout: page
 title: ":~$ whoami"
 ---
 
-![Pic](badge.jpeg)
+<img src="badge.jpeg" alt="Description" width="300" height="200">
 
 Stefano Ferretti<br>
 [Full professor](https://www.unibo.it/sitoweb/s.ferretti) @ [University of Bologna](https://www.unibo.it/it) in computer science
