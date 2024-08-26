@@ -6,6 +6,8 @@ permalink: /publications/
 
 # International Journals
 
+- S. Montagna, D. Magno, S. Ferretti, M. Stelluti, A. Gona, C. Dionisi, G. Simonazzi, S. Martini, L. Corvaglia, A. Aceti, "[Combining artificial intelligence and conventional statistics to predict bronchopulmonary dysplasia in very preterm infants using routinely collected clinical variables](https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.27216), Pediatric Pulmonology, Wiley, August.~2024, DOI: 10.1002/ppul.27216.
+
 - S. Munir, R.A.S. Malick, S. Ferretti, "[A Network Analysis-Driven Framework for Factual Explainability of Knowledge Graphs](https://ieeexplore.ieee.org/document/10440345)", IEEE Access, IEEE Press, Feb. 2024.
 
 - S. Ferretti, M. Furini, "[Cryptocurrency Turmoil: Unraveling the Collapse of Unified Stablecoin (USTC) Through Twitter as a Passive Sensor](https://www.mdpi.com/1424-8220/24/4/1270)", Sensors, 2024, Volume 24, Issue 32, 2024, 10.3390/s24041270 [pdf].
