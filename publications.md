@@ -317,7 +317,7 @@ in Proc. of the 7th IEEE International Conference on Blockchain (Blockchain 2024
 in Proc. of the 5th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2024) - 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
 - S. Montagna, G. Aguzzi, S. Ferretti, M.~Pengo, L.C. Klopfenstein, M. Ungolo, M. Magnini,
-"LLM-based Solutions for Healthcare Chatbots: a Comparative Analysis",
+"[LLM-based Solutions for Healthcare Chatbots: a Comparative Analysis](https://ieeexplore.ieee.org/document/10503257)",
 in Proc. of the 3rd Workshop on Telemedicine and e-Health evolution in the new era of social distancing (TELMED 2024) -- 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
 - S. Marasi, S. Ferretti,
