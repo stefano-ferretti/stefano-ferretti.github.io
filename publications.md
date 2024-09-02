@@ -10,9 +10,9 @@ permalink: /publications/
 
 - S. Munir, R.A.S. Malick, S. Ferretti, "[A Network Analysis-Driven Framework for Factual Explainability of Knowledge Graphs](https://ieeexplore.ieee.org/document/10440345)", IEEE Access, IEEE Press, Feb. 2024.
 
-- S. Ferretti, M. Furini, "[Cryptocurrency Turmoil: Unraveling the Collapse of Unified Stablecoin (USTC) Through Twitter as a Passive Sensor](https://www.mdpi.com/1424-8220/24/4/1270)", Sensors, 2024, Volume 24, Issue 32, 2024, 10.3390/s24041270 [pdf].
+- S. Ferretti, M. Furini, "[Cryptocurrency Turmoil: Unraveling the Collapse of Unified Stablecoin (USTC) Through Twitter as a Passive Sensor](https://www.mdpi.com/1424-8220/24/4/1270)", Sensors, 2024, Volume 24, Issue 32, 2024, 10.3390/s24041270.
 
-- R.A.S. Malick, S. Munir, S.I. Jami, S. Rauf, S. Ferretti, H. Cherifi, "[DbKB A Knowledge Graph Dataset for Diabetes: A System Biology Approach](https://www.sciencedirect.com/science/article/pii/S2352340923010338)", Data in Brief, Elsevier, Volume 52, February 2024, 110003, https://doi.org/10.1016/j.dib.2023.110003 [pdf].
+- R.A.S. Malick, S. Munir, S.I. Jami, S. Rauf, S. Ferretti, H. Cherifi, "[DbKB A Knowledge Graph Dataset for Diabetes: A System Biology Approach](https://www.sciencedirect.com/science/article/pii/S2352340923010338)", Data in Brief, Elsevier, Volume 52, February 2024, 110003, https://doi.org/10.1016/j.dib.2023.110003.
 
 - M. Pengo, S. Montagna, S. Ferretti, C. Borghi, C. Ferri, G. Grassi, M.L. Muiesan, G. Parati, "[Machine learning in hypertension detection: a study on World Hypertension Day data](https://link.springer.com/article/10.1007/s10916-022-01900-5)", Journal of Hypertension, Volume 41, Supplement 3, June 2023, pp. e94-e94(1), Wolters Kluwer, https://doi.org/10.1097/01.hjh.0000939664.78208.11.
 
@@ -20,7 +20,7 @@ permalink: /publications/
 
 - L. Serena, M. Marzolla, G. D'Angelo, S. Ferretti,
 "A Review of Multilevel Modeling and Simulation for Human Mobility and Behavior",
-Simulation Modelling Practice and Theory, Elsevier, Volume 127, 1-28, September 2023, 10.1016/j.simpat.2023.102780 [pdf].
+Simulation Modelling Practice and Theory, Elsevier, Volume 127, 1-28, September 2023, 10.1016/j.simpat.2023.102780.
 
 - M. Zichichi, G. D'Angelo, S. Ferretti, M. Marzolla,
 "[Accountable Clouds through Blockchain](https://ieeexplore.ieee.org/document/10124222)",
@@ -32,11 +32,11 @@ in Distributed Ledger Technologies: Research and Practice, ACM, Volume 2, Issue 
 
 - S. Montagna, M. Pengo, S. Ferretti, C. Borghi, C. Ferri, G. Grassi, M.L. Muiesan, G. Parati,
 Machine learning in hypertension detection: a study on World Hypertension Day data',
-Journal of Medical Systems, Springer, 47, 1 (2023). https://doi.org/10.1007/s10916-022-01900-5 [pdf].
+Journal of Medical Systems, Springer, 47, 1 (2023). https://doi.org/10.1007/s10916-022-01900-5.
 
 - M. Zichichi, S. Ferretti, G. D'Angelo, V. Rodriguez-Doncel,
 Data Governance Through a Multi-DLT Architecture in View of the GDPR,
-in Cluster Computing, Springer, August 2022, DOI:10.1007/s10586-022-03691-3 [pdf].
+in Cluster Computing, Springer, August 2022, DOI:10.1007/s10586-022-03691-3.
 
 - S. Ferretti,
 [On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection](https://link.springer.com/article/10.1007/s10614-022-10288-w),
@@ -44,11 +44,11 @@ in Computational Economics, Springer Nature, July 2022, DOI:10.1007/s10614-022-1
 
 - M. Zichichi, S. Ferretti, V. Rodriguez-Doncel,
 Decentralized Personal Data Marketplaces: How Participation in a DAO Can Support the Production of Citizen-Generated Data.
-Sensors 2022, 22, 6260. https://doi.org/10.3390/s22166260 [pdf].
+Sensors 2022, 22, 6260. https://doi.org/10.3390/s22166260.
 
 - M. Zichichi, L. Serena, S. Ferretti, G. D'Angelo,
 Complex Queries over Decentralized Systems for Geodata Retrieval,
-in IET Networks, IET Research Journals, Wiley, March 2022, DOI: 10.1049/ntw2.12037 [pdf].
+in IET Networks, IET Research Journals, Wiley, March 2022, DOI: 10.1049/ntw2.12037.
 
 - G. D'Angelo & S. Ferretti,
 Adaptive Parallel and Distributed Simulation of Complex Networks,
@@ -60,52 +60,52 @@ in Simulation Modelling Practice and Theory, Elsevier, Volume 114, 2022, ISSN 15
 
 - L. Serena, S. Ferretti, G. D'Angelo,
 "Cryptocurrencies Activity as a Complex Network: Analysis of Transactions Graphs",
-in Peer-to-Peer Networking and Applications (PPNA), Springer, August 2021 [pdf].
+in Peer-to-Peer Networking and Applications (PPNA), Springer, August 2021.
 
 - M. Zichichi, S. Ferretti, G. D'Angelo,
 "A Framework based on Distributed Ledger Technologies for Data Management and Services in Intelligent Transportation Systems'',
-IEEE Access, IEEE, Volume 8, May 2020, Pages 100384-100402 [pdf].
+IEEE Access, IEEE, Volume 8, May 2020, Pages 100384-100402.
 
 - S. Ferretti & G. D'Angelo,
 On the Ethereum blockchain structure: a complex networks theory perspective,
-in Concurrency and Computation: Practice and Experience, John Wiley and Sons Ltd, June 2020, [pdf], [arxiv version].
+in Concurrency and Computation: Practice and Experience, John Wiley and Sons Ltd, June 2020,, [arxiv version].
 
-- G. D'Angelo, S. Ferretti & M. Marzolla ,
+- G. D'Angelo, S. Ferretti & M. Marzolla,
 Fault Tolerant Adaptive Parallel and Distributed Simulation through Functional Replication,
-in Simulation Modelling Practice and Theory, Elsevier, Volume 93, May 2019, Pages 192-207 [pdf], [arxiv version].
+in Simulation Modelling Practice and Theory, Elsevier, Volume 93, May 2019, Pages 192-207, [arxiv version].
 
 - R. De Michele, S. Ferretti, M. Furini,
 On Helping Broadcasters to Promote TV-shows through Hashtags,
-in Multimedia Tools and Applications, Springer, Volume 78, Issue 3, 1 February 2019, Pages 3279-3296 [pdf]
+in Multimedia Tools and Applications, Springer, Volume 78, Issue 3, 1 February 2019, Pages 3279-3296 
 
-- G. D'Angelo, S. Ferretti & V. Ghini ,
+- G. D'Angelo, S. Ferretti & V. Ghini,
 Distributed Hybrid Simulation of the Internet of Things and Smart Territories,
 in Concurrency and Computation: Practice and Experience, John Wiley & Sons Ltd, Volume 30, Issue 9, 10 May 2018.
-Draft version avaiable as a Tech. Rep. arXiv:1710.04252. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1710.04252. 
 
 - S. Ferretti,
 Clustering of Musical Pieces through Complex Networks: an Assessment over Guitar Solos,
 in IEEE Multimedia, IEEE Computer Society, Volume 25, Issue 4, October-December 2018, Article number 8516337, Pages 57-67, DOI: 10.1109/MMUL.2018.112140114.
-Draft version avaiable as a Tech. Rep. arXiv:1709.0519. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1709.0519. 
 
 - S. Ferretti,
 On the Complex Network Structure of Musical Pieces: Analysis of Some Use Cases from Different Music Genres,
 in Multimedia Tools and Applications, Springer, Volume 77, Issue 13, July 2018, Pages 16003-16029, DOI: 10.1007/s11042-017-5175-y.
-Draft version avaiable as a Tech. Rep. arXiv:1709.09708. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1709.09708. 
 
 - C. Prandi, S. Mirri, S. Ferretti & P. Salomoni,
 On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City,
 in ACM Transactions on Internet Technology, ACM Press, Volume 18, Issue 1, October 2017.
 
-- G. D'Angelo, S. Ferretti & V. Ghini ,
+- G. D'Angelo, S. Ferretti & V. Ghini,
 Multi-level Simulation of Internet of Things on Smart Territories,
-in Simulation Modelling Practice and Theory, Elsevier, Volume 73, April 2017, Pages 3-21 [pdf]
-Draft version avaiable as a Tech. Rep. arXiv:1611.01325. [pdf]
+in Simulation Modelling Practice and Theory, Elsevier, Volume 73, April 2017, Pages 3-21 
+Draft version avaiable as a Tech. Rep. arXiv:1611.01325. 
 
 - S. Ferretti,
 On the Modeling of Musical Solos as Complex Networks,
-in Information Sciences, Elsevier, Volume 375, 1, January 2017, pp. 271-295, ISSN 0020-0255, DOI: 10.1016/j.ins.2016.10.007 [pdf]
-Draft version avaiable as a Tech. Rep. arXiv:1610.00468. [pdf]
+in Information Sciences, Elsevier, Volume 375, 1, January 2017, pp. 271-295, ISSN 0020-0255, DOI: 10.1016/j.ins.2016.10.007 
+Draft version avaiable as a Tech. Rep. arXiv:1610.00468. 
 
 - G. D'Angelo & S. Ferretti,
 Highly intensive data dissemination in complex networks,
@@ -113,57 +113,57 @@ in Journal of Parallel and Distributed Computing, Elsevier, Volume 99, 1 January
 
 - S. Ferretti, S. Mirri, C. Prandi & P. Salomoni,
 Automatic Web Content Personalization Through Reinforcement Learning,
-in Journal of Systems and Software, Elsevier, Volume 121, November 2016, Pages 157–169. [pdf]
+in Journal of Systems and Software, Elsevier, Volume 121, November 2016, Pages 157–169. 
 
 - S. Ferretti, V. Ghini & F. Panzieri,
 A Survey on Handover Management in Mobility Architectures,
-in Computer Networks, Elsevier, Volume 94, 15 January 2016, pp. 390-413 [pdf]
-Draft version avaiable as a Tech. Rep. arXiv:1509.01396. [pdf]
+in Computer Networks, Elsevier, Volume 94, 15 January 2016, pp. 390-413 
+Draft version avaiable as a Tech. Rep. arXiv:1509.01396. 
 
 - S. Ferretti, S. Mirri, C. Prandi & P. Salomoni,
 On Personalizing Web Content Through Reinforcement Learning,
-in Journal Universal Access in the Information Society (UAIS), Springer, Volume 16, Issue 2, 1 June 2017, Pages 395-410 [pdf]
+in Journal Universal Access in the Information Society (UAIS), Springer, Volume 16, Issue 2, 1 June 2017, Pages 395-410 
 
 - S. Ferretti,
 Self-Healing Protocols for Connectivity Maintenance in Unstructured Overlays,
-in Peer-to-Peer Networking and Applications, Springer, Volume 9, Issue 6, 1 November 2016, Pages 1270-1292 [pdf]
-Draft version avaiable as a Tech. Rep. arXiv:1506.04512. [pdf]
+in Peer-to-Peer Networking and Applications, Springer, Volume 9, Issue 6, 1 November 2016, Pages 1270-1292 
+Draft version avaiable as a Tech. Rep. arXiv:1506.04512. 
 
 - S. Ferretti,
 Gossiping for Resource Discovering: an Analysis based on Complex Network Theory,
-in Future Generation Computer Systems, Elsevier, Volume 29, Issue 6, August 2013, pp. 1631-1644. [pdf]
+in Future Generation Computer Systems, Elsevier, Volume 29, Issue 6, August 2013, pp. 1631-1644. 
 
 - S. Ferretti,
 Shaping Opportunistic Networks,
-in Computer Communications, Elsevier, Volume 36, Issue 5, 1 March 2013, Pages 481–503. [pdf]
+in Computer Communications, Elsevier, Volume 36, Issue 5, 1 March 2013, Pages 481–503. 
 
 - S. Ferretti,
 On the Degree Distribution of Faulty Peer-to-Peer Overlay Networks,
-in ICST Transactions on Complex Systems, ICST, October-December 2012, Volume 12, Issue 10-12, pag. 1-20. [pdf].
+in ICST Transactions on Complex Systems, ICST, October-December 2012, Volume 12, Issue 10-12, pag. 1-20..
 
 - M. Marzolla, S. Ferretti & G. D'Angelo,
 Dynamic Resource Provisioning for Cloud-based Gaming Infrastructures,
-in ACM Computers in Entertainment, ACM, Volume 10, Number 3, Dec. 2012, 1-20. [pdf]
+in ACM Computers in Entertainment, ACM, Volume 10, Number 3, Dec. 2012, 1-20. 
 
 - V. Ghini, S. Ferretti & F. Panzieri,
 m-Hippocrates: Enabling Reliable and Highly Interactive m-Health Services,
-in IT Professional 14(3): 29-35 (2012), IEEE. [pdf]
+in IT Professional 14(3): 29-35 (2012), IEEE. 
 
 - V. Ghini, S. Ferretti & F. Panzieri,
 The "Always Best Packet Switching" architecture for SIP-based mobile multimedia services,
-in Journal of Systems and Software, Elsevier, Volume 84, Issue 11, November 2011, Pages 1827-1851. [pdf]
+in Journal of Systems and Software, Elsevier, Volume 84, Issue 11, November 2011, Pages 1827-1851. 
 
 - S. Ferretti, M. Furini, C.E. Palazzi, M. Roccetti & P. Salomoni,
 WWW Recycling for a Better World,
-in Communications of the ACM, ACM, Vol. 53, N. 4, April 2010, 139-143. [pdf]
+in Communications of the ACM, ACM, Vol. 53, N. 4, April 2010, 139-143. 
 
 - C.E. Palazzi, M. Roccetti, & S. Ferretti
 An Inter-Vehicular Communication Architecture for Safety and Entertainment,
-in IEEE Transactions on Intelligent Transportation Systems, IEEE, Volume 11, Issue 1, March 2010, 90-99. [pdf]
+in IEEE Transactions on Intelligent Transportation Systems, IEEE, Volume 11, Issue 1, March 2010, 90-99. 
 
 - S. Ferretti & V. Ghini,
 Discovering Points of Interests Through A Web 2.0, Location-based Architecture,
-in International Journal On Advances in Internet Technology, IARIA, issn: 1942-2652, Vol. 2, N.2-3, 2009, 238-252. [pdf]
+in International Journal On Advances in Internet Technology, IARIA, issn: 1942-2652, Vol. 2, N.2-3, 2009, 238-252. 
 
 - C.E. Palazzi, S. Ferretti & M. Roccetti,
 Smart Access Points on the Road for Online Gaming in Vehicular Networks,
@@ -171,7 +171,7 @@ in Entertainment Computing, Elsevier, Vol. 1, N.1, 2009.
 
 - C.E. Palazzi, S. Ferretti & M. Roccetti,
 Communities on the Road: Fast Triggering of Interactive Multimedia Services,
-in Multimedia Tools and Applications, Springer, Volume 22, Issue 2, 2009, 229-247. [pdf] [bib]
+in Multimedia Tools and Applications, Springer, Volume 22, Issue 2, 2009, 229-247.  [bib]
 
 - S. Ferretti, S. Mirri, L.A. Muratori, M. Roccetti & P. Salomoni,
 Cooperative Multimedia Management for Participative Learning: A Case Study,
@@ -179,19 +179,19 @@ in New Review of Hypermedia and Multimedia, Taylor & Francis, Volume 14 Issue 2,
 
 - S. Ferretti,
 Cheating Detection Through Game Time Modeling: A Better Way to Avoid Time Cheats in P2P MOGs?,
-in Multimedia Tools and Applications, Springer, Volume 37, Number 3, May 2008, 339-363. [pdf] [bib]
+in Multimedia Tools and Applications, Springer, Volume 37, Number 3, May 2008, 339-363.  [bib]
 
 - P. Salomoni, S. Mirri, S. Ferretti & M. Roccetti,
 A Multimedia Broker to support Accessible and Mobile Learning through Learning Objects Adaptation,
-in ACM Transactions on Internet Technology, ACM Press, Volume 8, Issue 2, February 2008, Article No.4, 9:23. [pdf] [bib]
+in ACM Transactions on Internet Technology, ACM Press, Volume 8, Issue 2, February 2008, Article No.4, 9:23.  [bib]
 
 - S. Ferretti, M. Roccetti & C.E. Palazzi,
 Intelligent Synchronization for Mirrored Game Servers,
-in Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII), Fuji Technology Press, Vol.12, No.2, 2008, 132-141. [pdf] [bib]
+in Journal of Advanced Computational Intelligence and Intelligent Informatics (JACIII), Fuji Technology Press, Vol.12, No.2, 2008, 132-141.  [bib]
 
 - S. Ferretti, M. Roccetti, S. Mirri, L.A. Muratori & P. Salomoni,
 Why LAUGHing is Better than SMILing,
-in International Journal of Semantic Computing (IJSC), World Scientific Publishing, December 2007, Vol. 1, No. 4, 497-519. [pdf] [bib]
+in International Journal of Semantic Computing (IJSC), World Scientific Publishing, December 2007, Vol. 1, No. 4, 497-519.  [bib]
 
 - S. Ferretti, M. Roccetti, P. Salomoni & S. Mirri
 Custom E-learning Experiences: Working with Profiles for Multiple Content Sources Access and Adaptation,
@@ -199,7 +199,7 @@ in Journal of Access Services, Haworth Press, July 2007, accepted for publicatio
 
 - S. Ferretti, M. Roccetti & C.E. Palazzi,
 Web Content Search and Adaptation for IDTV: One Step Forward in the Mediamorphosis Process toward Personal-TV,
-in Advances in Multimedia, Hindawi Publishing Corporation, April 2007. [pdf] [bib]
+in Advances in Multimedia, Hindawi Publishing Corporation, April 2007.  [bib]
 
 - S. Ferretti, M. Roccetti & C.E. Palazzi,
 An Optimistic Obsolescence-Based Approach To Event Synchronization For Massive Multiplayer Online Games,
@@ -207,23 +207,23 @@ in International Journal of Computers and Applications, ACTA Press, Vol. 29, No.
 
 - C.E. Palazzi, S. Ferretti, M. Roccetti, G. Pau & M. Gerla,
 What's in that Magic Box? The Home Entertainment Center's Special Protocol Potion, Revealed,
-in IEEE Transactions on Consumer Electronics, IEEE Consumer Electronics Society, Vol 52, No. 4, November 2006, 1280-1288. [pdf] [bib]
+in IEEE Transactions on Consumer Electronics, IEEE Consumer Electronics Society, Vol 52, No. 4, November 2006, 1280-1288.  [bib]
 
 - S. Ferretti, C.E. Palazzi, M. Roccetti, G. Pau & M. Gerla,
 FILA in Gameland, a Holistic Approach to a Problem of Many Dimensions,
-in ACM Journal of Computer in Entertainment, ACM Press, Vol. 4 , No. 4, October-December 2006. [pdf] [bib]
+in ACM Journal of Computer in Entertainment, ACM Press, Vol. 4, No. 4, October-December 2006.  [bib]
 
 - C.E. Palazzi, S. Ferretti, S. Cacciaguerra & M. Roccetti,
 Interactivity-Loss Avoidance in Event Delivery Synchronization for Mirrored Game Architectures,
-in IEEE Transactions on Multimedia, IEEE Signal Processing Society, Vol. 8, No. 4, August 2006, 874-879. [pdf] [bib]
+in IEEE Transactions on Multimedia, IEEE Signal Processing Society, Vol. 8, No. 4, August 2006, 874-879.  [bib]
 
 - C.E. Palazzi, S. Ferretti, S. Cacciaguerra & M. Roccetti,
 A RIO-like Technique for Interactivity Loss Avoidance in Fast-Paced Multiplayer Online Games,
-in ACM Journal of Computer in Entertainment, ACM Press, Vol. 3, No. 2, April/June 2005. [pdf] [bib]
+in ACM Journal of Computer in Entertainment, ACM Press, Vol. 3, No. 2, April/June 2005.  [bib]
 
 - M. Roccetti, P. Salomoni, V. Ghini & S. Ferretti,
 Bringing the Wireless Internet to UMTS Devices: A Case Study with Music Distribution,
-in Multimedia Tools and Applications, Springer Science+Business Media B.V. (Formerly Kluwer Academic Publishers B.V.), Vol. 25, No. 2, February 2005, 217-251. [pdf] [bib]
+in Multimedia Tools and Applications, Springer Science+Business Media B.V. (Formerly Kluwer Academic Publishers B.V.), Vol. 25, No. 2, February 2005, 217-251.  [bib]
 
 - S. Ferretti & M. Roccetti,
 A Novel Obsolescence-based Approach to Event Delivery Synchronization in Multiplayer Games,
@@ -465,21 +465,21 @@ in Proc. of 3rd Workshop on Cryptocurrencies and Blockchains for Distributed Sys
 - M. Zichichi, S. Ferretti, G. D'Angelo,
 On the Efficiency of Decentralized File Storage for Personal Information Management Systems,
 in Proc. of 2nd International Workshop on Social Media Sensing (SMS 2020) - 25th IEEE Symposium on Computers and Communications (ISCC), July 2020.
-Draft version avaiable as a Tech. Rep. arXiv:2007.03505 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:2007.03505 
 
 - M. Zichichi, M. Contu, S. Ferretti, G. D'Angelo,
-Ensuring Personal Data Anonymity in Data Marketplaces through Sensing-as-a-Service and Distributed Ledger Technologies ,
+Ensuring Personal Data Anonymity in Data Marketplaces through Sensing-as-a-Service and Distributed Ledger Technologies,
 in Proc. of the 3rd Distributed Ledger Technology Workshop (DLT 2020), Ancona (Italy), January 2020.
 
 - M. Zichichi, S. Ferretti, G. D'Angelo,
 A Distributed Ledger Based Infrastructure for Smart Transportation System and Social Good,
 in Proc. of the IEEE 17th Annual Consumer Communications & Networking Conference (CCNC 2020), IEEE, Las Vegas (USA), January 2020.
-Draft version avaiable as a Tech. Rep. arxiv:1910.03280 [pdf]
+Draft version avaiable as a Tech. Rep. arxiv:1910.03280 
 
 - G. Gaminati, S. Klade, G. D'Angelo, S. Ferretti, V. Ghini,
 Fast Session Resumption in DTLS for Mobile Communications,
 in Proc. of the IEEE 17th Annual Consumer Communications & Networking Conference (CCNC 2020), IEEE, Las Vegas (USA), January 2020.
-Draft version avaiable as a Tech. Rep. arXiv:1910.03281  [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1910.03281  
 
 - M. Zichichi, V. Rodriguez-Doncel, S. Ferretti,
 The use of Decentralized and Semantic Web Technologies for Personal Data Protection and Interoperability,
@@ -492,7 +492,7 @@ in Proc. of the Winter Simulation Conference 2019 (WSC 2019), ACM/SIGSIM, IEEE/S
 - E. Rosa, S. Ferretti, G. D'Angelo,
 Agent-based Simulation of Blockchains,
 in Proc. of the 19th Asia Simulation Conference, AsiaSim 2019, Communications in Computer and Information Science (CCIS) series, Springer, Singapore, October-November 2019.
-Draft version avaiable as a Tech. Rep. arXiv:1908.11811 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1908.11811 
 
 - S. Ferretti, M. Furini, M. Montangero,
 Diabetes: what are Italian Twitter users talking about?,
@@ -501,7 +501,7 @@ in Proc. of 1st International Workshop on Social Media Sensing -- 28th Internati
 - M. Zichichi, M. Contu, S. Ferretti, G. D'Angelo,
 LikeStarter: a Smart-contract based Social DAO for Crowdfunding,
 in Proc. of the 2nd Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock 2019), co-located with IEEE InfoCom 2019, IEEE, April 2019, Paris, France.
-Draft version avaiable as a Tech. Rep. arXiv:1905.05560 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1905.05560 
 
 - A. Magnani, G. D'Angelo, S. Ferretti, M. Marzolla,
 Anonymity and Confidentiality in Secure Distributed Simulation,
@@ -510,42 +510,42 @@ in Proc. of the 22nd IEEE/ACM International Symposium on Distributed Simulation 
 - G. D'Angelo, S. Ferretti, M. Marzolla,
 A Blockchain-based Flight Data Recorder for Cloud Accountability,
 in Proc. of the 1st Workshop on Cryptocurrencies and Blockchains for Distributed Systems (CryBlock 2018), co-located with ACM MobiSys 2018, ACM, Munich Germany), June 2018.
-Draft version avaiable as a Tech. Rep. arXiv:1806.04544 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1806.04544 
 
 - S. Ferretti, G. D'Angelo, V. Ghini, M. Marzolla,
 The Quest for Scalability and Accuracy: Multi-Level Simulation of the Internet of Things,
 in Proc. of the 21th IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications (IEEE/ACM DS-RT 2017), Rome (Italy), IEEE, October 2017.
-Draft version avaiable as a Tech. Rep. arXiv:1710.02282 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1710.02282 
 
 - S. Ferretti, G. D'Angelo, V. Ghini,
 Modeling the Internet of Things: A Simulation Perspective,
 in Proc. of the International Conference on High Performance Computing & Simulation (HPCS 2017), tutorial paper, Genova (Italy), IEEE, July 2017.
-Draft version avaiable as a Tech. Rep. arXiv:1707.00832 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1707.00832 
 
 - G. D'Angelo, S. Ferretti, M. Marzolla, L. Armaroli,
 Fault-Tolerant Adaptive Parallel and Distributed Simulation,
 in Proc. of the 20th IEEE/ACM International Symposium on Distributed Simulation and Real Time Applications (IEEE/ACM DS-RT 2016), London (England), IEEE, September 2016.
-Draft version avaiable as a Tech. Rep. arXiv:1606.07310 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1606.07310 
 
 - G. D'Angelo, S. Ferretti, V. Ghini,
 Simulation of the Internet of Things,
 in Proc. of the 2016 International Conference on High Performance Computing and Simulation (HPCS 2016), tutorial paper, Innsbruck (Austria), IEEE, July 2016.
-Draft version avaiable as a Tech. Rep. arXiv:1605.04876 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1605.04876 
 
 - S. Ferretti,
 Guitar Solos as Networks,
-in Proc. of the IEEE International Conference on Multimedia and Expo (ICME 2016), IEEE, Seattle, (USA), July 2016 [pdf].
-Draft version avaiable as a Tech. Rep. arXiv:1603.04979 [pdf]
+in Proc. of the IEEE International Conference on Multimedia and Expo (ICME 2016), IEEE, Seattle, (USA), July 2016.
+Draft version avaiable as a Tech. Rep. arXiv:1603.04979 
 
 - S. Ferretti, G. D'Angelo, V. Ghini,
 Smart Multihoming in Smart Shires: Mobility and Communication Management for Smart Services in Countrysides,
 in Proc. of the IEEE Symposium on Computers and Communication (ISCC 2016), Messina (Italy), IEEE, June 2016.
-Draft version avaiable as a Tech. Rep. arXiv:1604.07701 [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1604.07701 
 
 - S. Ferretti, G. D'Angelo,
 Smart Shires: The Revenge of Countrysides,
 in Proc. of the IEEE Symposium on Computers and Communication (ISCC 2016), Messina (Italy), IEEE, June 2016.
-An extended version avaiable as a Tech. Rep. arXiv:1604.07076. [pdf]
+An extended version avaiable as a Tech. Rep. arXiv:1604.07076. 
 
 - C. Prandi, S. Ferretti, S. Mirri, P. Salomoni,
 A Trustworthiness Model for Crowdsourced and Crowdsensed Data,
@@ -562,12 +562,12 @@ in Proc. of the International Workshop on User Centered Design and Adaptive Syst
 - S. Ferretti,
 On the Topology Maintenance of Dynamic P2P Overlays through Self-Healing Local Interactions,
 in Proc. of the IFIP Networking 2014 Conference, IEEE, Trondheim, (Norway), June 2014.
-Draft version avaiable as a Tech. Rep. arXiv:1405.4085. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1405.4085. 
 
 - S. Ferretti,
 Searching in Unstructured Overlays Using Local Knowledge and Gossip,
-in Proc. of the 5th International Workshop on Complex Networks (CompleNet 2014) - Studies in Computational Intelligence Series, Springer-Verlag, Bologna (Italy), March 2014. [pdf]
-Draft version avaiable as a Tech. Rep. arXiv:1403.3017. [pdf]
+in Proc. of the 5th International Workshop on Complex Networks (CompleNet 2014) - Studies in Computational Intelligence Series, Springer-Verlag, Bologna (Italy), March 2014. 
+Draft version avaiable as a Tech. Rep. arXiv:1403.3017. 
 
 - S. Ferretti, S. Mirri, C. Prandi, P. Salomoni,
 User Centered and Context Dependent Personalization Through Experiential Transcoding,
@@ -576,17 +576,17 @@ in Proc. of CCNC 2014: Networking Issues in Multimedia Entertainment (NIME'14), 
 - M. Marzolla, S. Ferretti, G. D'Angelo,
 Auction-Based Resource Allocation in Digital Ecosystems,
 in Proc. of 6th International Conference on MOBILe Wireless MiddleWARE, Operating Systems, and Applications (MobilWare 2013), Bologna (Italy), Nov 2013.
-Draft version avaiable as a Tech. Rep. arXiv:1109.0397. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1109.0397. 
 
 - S. Ferretti,
 Resilience of Dynamic Overlays through Local Interactions,
 in Proc. of the 5th International Workshop on Simplifying Complex Networks for Pratictioners (SIMPLEX 2013) - World Wide Web Conference (WWW 2013), ACM, Rio de Janeiro (Brazil), May 2013.
-Draft version avaiable as a Tech. Rep. arXiv:1209.5243, Sep 2012. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1209.5243, Sep 2012. 
 
 - S. Ferretti, V. Ghini, M. Marzolla, F. Panzieri,
 Walking with the Oracle: Efficient Use of Mobile Networks through Location-Awareness,
 in Proceedings of the IFIP/IEEE Wireless Days 2012 Conference, IEEE Communication Society, Dublin (Ireland), IEEE, November 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1209.5243, Sep 2012. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1209.5243, Sep 2012. 
 
 - S. Ferretti, V. Ghini, M. Marzolla, F. Panzieri,
 Modeling the Energy Consumption of Multi-NIC Communication Mechanisms,
@@ -599,17 +599,17 @@ in Proceedings of the 6th International Conference on Next Generation Mobile App
 - S. Ferretti,
 Publish-Subscribe Systems via Gossip: a Study based on Complex Networks,
 in Proc. of the 4th International Workshop on Simplifying Complex Networks for Pratictioners (SIMPLEX 2012) - World Wide Web Conference (WWW 2012), ACM, Lyon (France), April 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1112.0416, Dec 2011. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1112.0416, Dec 2011. 
 
 - S. Ferretti, & V. Ghini,
 Mitigation of Random Query String DoS via Gossip,
 in Proc. of the 6th International Conference on Information Systems, Technology and Management (ICISTM-2012), Grenoble, France, Springer Series in Communications in Computer and Information Science (CCIS), March 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1109.4404. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1109.4404. 
 
 - S. Ferretti, V. Ghini, & F. Panzieri,
 Scale-Free Opportunistic Networks: is it Possible?,
 in Proc. of the 8th International Workshop on Mobile Peer-to-Peer Computing - IEEE International Conference on Pervasive Computing and Communications (PERCOM 2012), Lugano, Switzerland, IEEE, March 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1107.1937. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1107.1937. 
 
 - V. Ghini, S. Ferretti, & F. Panzieri,
 "Always Best Packet Switching" for SIP Services,
@@ -618,22 +618,22 @@ in Proc. of the 8th International PerCom Workshop on Pervasive Wireless Networki
 - G. D'Angelo, S. Ferretti, & M. Marzolla,
 Time Warp on the Go,
 in Proc. of the International Workshop on DIstributed SImulation \& Online gaming (DISIO 2012) - ICST Conference on Simulation Tools and Techniques (SIMUTools 2012), Desenzano (Italy), ICST, March 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1206.2772. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1206.2772. 
 
 - S. Ferretti, & G. D'Angelo,
 Mobile Online Gaming via Resource Sharing,
 in Proc. of the International Workshop on DIstributed SImulation \& Online gaming (DISIO 2012) - ICST Conference on Simulation Tools and Techniques (SIMUTools 2012), Desenzano (Italy), ICST, March 2012.
-Draft version avaiable as a Tech. Rep. arXiv:1206.2774. [pdf]
+Draft version avaiable as a Tech. Rep. arXiv:1206.2774. 
 
 - G. D'Angelo, & S. Ferretti,
 LUNES: Agent-based Simulation of P2P Systems,
-in Proc. of 2011 International Conference on High Performance Computing & Simulation (HPCS 2011), Istanbul (Turkey), IEEE, July 2011. [pdf]
-Draft version avaiable as a Technical Report arXiv:1105.2447v1 [pdf]
+in Proc. of 2011 International Conference on High Performance Computing & Simulation (HPCS 2011), Istanbul (Turkey), IEEE, July 2011. 
+Draft version avaiable as a Technical Report arXiv:1105.2447v1 
 
 - G. D'Angelo, S. Ferretti, V. Ghini & F. Panzieri,
 Mobile Computing in Digital Ecosystems: Design Issues and Challenges,
 in Proceedings of the 7th International Wireless Communications and Mobile Computing Conference (IWCMC 2011), Istanbul (Turkey), IEEE, July 2011.
-Draft version avaiable as a Technical Report arXiv:1105.2458v1 [pdf]
+Draft version avaiable as a Technical Report arXiv:1105.2458v1 
 
 - M. Marzolla, S. Ferretti & G. D'Angelo,
 Dynamic Scalability for Next Generation Gaming Infrastructures,
@@ -642,7 +642,7 @@ in Proceedings of the International Workshop on DIstributed SImulation & Online 
 - G. D'Angelo, S. Ferretti & M. Marzolla,
 Adaptive Event Dissemination for Peer-to-Peer Multiplayer Online Games,
 in Proceedings of the International Workshop on DIstributed SImulation & Online gaming (DISIO 2011) - ICST Conference on Simulation Tools and Techniques (SIMUTools 2011), Barcelona (Spain), ICST, March 2011.
-Draft version avaiable as a Technical Report arXiv:1102.0720v1 [pdf]
+Draft version avaiable as a Technical Report arXiv:1102.0720v1 
 
 - S. Ferretti,
 A General Framework to Analyze the Fault-Tolerance of Unstructured P2P Systems,
@@ -674,19 +674,19 @@ in Proceedings of the International Workshop on DIstributed SImulation & Online 
 
 - S. Ferretti & G. D'Angelo,
 Multiplayer Online Games over Scale-Free Networks: a Viable Solution?,
-in Proceedings of the International Workshop on DIstributed SImulation & Online gaming (DISIO 2010) - ICST Conference on Simulation Tools and Techniques (SIMUTools 2010), Torremolinos (Spain), ICST, March 2010. [pdf]
+in Proceedings of the International Workshop on DIstributed SImulation & Online gaming (DISIO 2010) - ICST Conference on Simulation Tools and Techniques (SIMUTools 2010), Torremolinos (Spain), ICST, March 2010. 
 
 - S. Ferretti,
 On the Degree Distribution of Opportunistic Networks,
-in Proceedings of the 2nd International Workshop on Mobile Opportunistic Networking, ACM/SIGMOBILE MobiOpp 2010, Pisa (Italy), ACM Press, New York, NY, 151-154, February 2010. [pdf]
+in Proceedings of the 2nd International Workshop on Mobile Opportunistic Networking, ACM/SIGMOBILE MobiOpp 2010, Pisa (Italy), ACM Press, New York, NY, 151-154, February 2010. 
 
 - G. Rossi, S. Ferretti & G. D'Angelo,
 Equilibrium Selection in Multistage Congestion Games for Real-Time Streaming,
-in Proceedings of 3rd ICST/ACM International Workshop on Game Theory in Communication Networks, Pisa (Italy), ICST/ACM, October 2009. [pdf]
+in Proceedings of 3rd ICST/ACM International Workshop on Game Theory in Communication Networks, Pisa (Italy), ICST/ACM, October 2009. 
 
 - S. Ferretti & V. Ghini,
 A Web 2.0, Location-based Architecture For A Seamless Discovery Of Points of Interests,
-in Proceedings of 5th Advanced International Conference on Telecommunications (AICT 2009), Venice (Italy), IEEE Communications Society, May 2009. [pdf] [bib]
+in Proceedings of 5th Advanced International Conference on Telecommunications (AICT 2009), Venice (Italy), IEEE Communications Society, May 2009.  [bib]
 BEST PAPER AWARD
 
 - S. Ferretti, S. Mirri, M. Roccetti, C. Sermenghi & V. Conforti,
@@ -695,27 +695,27 @@ in Proceedings of 3rd ICST/ACM/IEEE International Conference on Pervasive Comput
 
 - G. D'Angelo & S. Ferretti,
 Simulation of Scale-Free Networks,
-in Proceedings of 2nd International Conference on Simulation Tools and Techniques (SIMUTools 2009), Rome (Italy), ICST/ACM, March 2009. [pdf] [bib]
+in Proceedings of 2nd International Conference on Simulation Tools and Techniques (SIMUTools 2009), Rome (Italy), ICST/ACM, March 2009.  [bib]
 
 - S. Ferretti, M. Roccetti & R. Zioni,
 A Statistical Approach to Cheating Countermeasure in P2P MOGs,
-in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009. [pdf] [bib]
+in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009.  [bib]
 
 - S. Ferretti, M. Roccetti & B. Zamborlin,
 On SPAWC: Discussion on a Musical Signal Parser and Well-Formed Composer,
-in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009. [pdf] [bib]
+in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009.  [bib]
 
 - S. Ferretti, P. Salomoni, M. Roccetti, S. Mirri & L.A. Muratori,
 At the Crossroads of Web and Interactive Multimedia: an Approach to Merge the Two Realms,
-in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009. [pdf] [bib]
+in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009.  [bib]
 
 - C.E. Palazzi, S. Ferretti & M. Roccetti,
 Fast Multi-hop Broadcast over Vehicular Networks: A Real Testbed Evaluation,
-in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009. [pdf] [bib]
+in Proceedings of 6th IEEE Communications and Networking Conference (CCNC 2009), Las Vegas (USA), IEEE Communications Society, January 2009.  [bib]
 
 - C.E. Palazzi, M. Roccetti, S. Ferretti & S. Frizzoli,
 How to Let Gamers Play in Infrastructure-based Vehicular Networks,
-in Proceedings of the ACM International Conference on Advances in Computer Entertainment Technology (ACE 2008), ACM Press, Yokohama (Japan), December 2008. [pdf] [bib]
+in Proceedings of the ACM International Conference on Advances in Computer Entertainment Technology (ACE 2008), ACM Press, Yokohama (Japan), December 2008.  [bib]
 
 - M. Roccetti, S. Ferretti, M. Furini, C.E. Palazzi & P. Salomoni,
 e-goisms: What Would the Web be Without the Others?,
@@ -723,23 +723,23 @@ in Proceedings of the 10th ETHICOMP International Conference on the Social and E
 
 - S. Ferretti,
 A Synchronization Protocol For Supporting Peer-to-Peer Multiplayer Online Games in Overlay Networks,
-in Proceedings of the 2nd International Conference on Distributed Event-Based Systems (DEBS'08), ACM Press, Rome (Italy), July 2008. [pdf] [bib]
+in Proceedings of the 2nd International Conference on Distributed Event-Based Systems (DEBS'08), ACM Press, Rome (Italy), July 2008.  [bib]
 
 - S. Ferretti, M. Roccetti & F.G. Strozzi
 On Developing Tangible Interfaces for Video Streaming Control: a Real Case Study,
-in Proceedings of the 18th International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV 2008), ACM Press, Braunschweig (Germany), May 2008, 51-56. [pdf] [bib]
+in Proceedings of the 18th International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV 2008), ACM Press, Braunschweig (Germany), May 2008, 51-56.  [bib]
 
 - M. Roccetti, S. Ferretti & C.E. Palazzi,
 The Brave New World of Multiplayer Online Games: Synchronization Issues with Smart Solutions,
-in Proceedings of the 11th IEEE International Symposium on Object/component/service-oriented Real-time distributed Computing (ISORC 2008), Orlando (USA), IEEE Computer Society, May 2008. [pdf] [bib]
+in Proceedings of the 11th IEEE International Symposium on Object/component/service-oriented Real-time distributed Computing (ISORC 2008), Orlando (USA), IEEE Computer Society, May 2008.  [bib]
 
 - S. Ferretti, S. Mirri, L.A. Muratori, M. Roccetti & P. Salomoni
 E-learning 2.0: you are We-LCoME!,
-in Proceedings of the 5th International Cross-Disciplinary Conference on Web Accessibility (W4A 2008) - 17th International World Wide Web Conference (WWW 2008), ACM Press, Beijing (China), April 2008. [pdf] [bib]
+in Proceedings of the 5th International Cross-Disciplinary Conference on Web Accessibility (W4A 2008) - 17th International World Wide Web Conference (WWW 2008), ACM Press, Beijing (China), April 2008.  [bib]
 
 - M. Roccetti, S. Ferretti, C.E. Palazzi, M. Furini & P. Salomoni,
 Riding the Web Evolution: from Egoism to Altruism,
-in Proceedings of the IEEE Communications and Networking Conference (CCNC 2008), Las Vegas (USA), IEEE Communications Society, January 2008. [pdf]
+in Proceedings of the IEEE Communications and Networking Conference (CCNC 2008), Las Vegas (USA), IEEE Communications Society, January 2008. 
 
 - E. Manca, F. Parmeggiani, C.E. Palazzi, S. Ferretti & M. Roccetti,
 The Anatomy of an Inter-Vehicular Gaming Communication Subsystem with Experiments,
@@ -748,7 +748,7 @@ BEST PAPER AWARD.
 
 - S. Ferretti, S. Mirri, M. Roccetti & P. Salomoni,
 Notes for a Collaboration: On the Design of a Wiki-type Educational Video Lecture Annotation System,
-in Proceedings of the IEEE International Workshop on Semantic Computing and Multimedia Systems (IEEE-SCMS'07) - IEEE International Conference on Semantic Computing (ICSC2007), IEEE Computer Society, Irvine (USA), September 2007. [pdf] [bib]
+in Proceedings of the IEEE International Workshop on Semantic Computing and Multimedia Systems (IEEE-SCMS'07) - IEEE International Conference on Semantic Computing (ICSC2007), IEEE Computer Society, Irvine (USA), September 2007.  [bib]
 
 - C.E. Palazzi, M. Roccetti, S. Ferretti, G. Pau & M. Gerla,
 Online Games on Wheels: Fast Game Event Delivery in Vehicular Ad-hoc Networks,
@@ -760,11 +760,11 @@ in Proceedings of the 3rd International Conference on Distributed Frameworks for
 
 - P. Salomoni, S. Mirri, S. Ferretti & M. Roccetti,
 Profiling Learners with Special Needs for Custom E-Learning Experiences, a Closed Case?,
-in Proceedings of the 4th International Cross-Disciplinary Conference on Web Accessibility (W4A 2007) - 16th International World Wide Web Conference (WWW 2007), ACM Press, Banff (Canada), May 2007. [pdf] [bib]
+in Proceedings of the 4th International Cross-Disciplinary Conference on Web Accessibility (W4A 2007) - 16th International World Wide Web Conference (WWW 2007), ACM Press, Banff (Canada), May 2007.  [bib]
 
 - M. Roccetti, M. Gerla, C.E. Palazzi, S. Ferretti & G. Pau,
 First Responders' Crystal Ball: How to Scry the Emergency from a Remote Vehicle,
-in Proceedings of the 1st IEEE International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri 07) - 26th IEEE International Performance Computing and Communications Conference (IPCCC 2007), New Orleans (USA), April 2007, 556-561. [pdf] [bib]
+in Proceedings of the 1st IEEE International Workshop on Research Challenges in Next Generation Networks for First Responders and Critical Infrastructures (NetCri 07) - 26th IEEE International Performance Computing and Communications Conference (IPCCC 2007), New Orleans (USA), April 2007, 556-561.  [bib]
 
 - S. Ferretti, M. Roccetti & A. Michetti,
 The Best of Both Worlds: Narrowing the Disconnect between the Web and a Responsive TV,
@@ -772,39 +772,39 @@ in Proceedings of the IASTED European Conference on Internet and Multimedia Syst
 
 - S. Ferretti, M. Roccetti & A. la Penna,
 Fast Synchronization of Mirrored Game Servers: Outcomes from a Testbed Evaluation,
-in Proceedings of the International Symposium on Intelligence Techniques in Computer Games and Simulations, Kusatsu Shiga, (Japan), March 2007. [pdf]
+in Proceedings of the International Symposium on Intelligence Techniques in Computer Games and Simulations, Kusatsu Shiga, (Japan), March 2007. 
 
 - C.E. Palazzi, S. Ferretti, M. Roccetti, G. Pau & M. Gerla,
 How Do You Quickly Choreograph Inter-Vehicular Communications? A Fast Vehicle-to-Vehicle Multi-Hop Broadcast Algorithm, Explained,
-in Proceedings of the 4th IEEE Communications and Networking Conference (CCNC 2007), Las Vegas (USA), IEEE Communications Society, January 2007. [pdf] [bib]
+in Proceedings of the 4th IEEE Communications and Networking Conference (CCNC 2007), Las Vegas (USA), IEEE Communications Society, January 2007.  [bib]
 
 - S. Mirri, P. Salomoni & S. Ferretti,
 Transcoding in Online Rich-media Edutainment: a Dynamic Approach based on Content/Context Awareness,
-in Proceedings of the 4th IEEE Communications and Networking Conference (CCNC 2007), Las Vegas (USA), IEEE Communications Society, January 2007. [pdf] [bib]
+in Proceedings of the 4th IEEE Communications and Networking Conference (CCNC 2007), Las Vegas (USA), IEEE Communications Society, January 2007.  [bib]
 
 - S. Ferretti & M. Roccetti,
 MHP Meets The Web: Bringing Web Contents to Digital TV for Interactive Entertainment,
-in Proceedings of the IEEE International Symposium on Multimedia (ISM 2006), San Diego (USA), IEEE Computer Society, December 2006. [pdf] [bib]
+in Proceedings of the IEEE International Symposium on Multimedia (ISM 2006), San Diego (USA), IEEE Computer Society, December 2006.  [bib]
 
 - S. Ferretti & M. Roccetti,
 Game Time Modelling for Cheating Detection in P2P MOGs: a Case Study with a Fast Rate Cheat,
-in Proceedings of the 5th ACM SIGCOMM Workshop on Network & System Support for Games 2006 (NETGAMES 2006), Singapore, ACM Press, October 2006. [pdf] [bib]
+in Proceedings of the 5th ACM SIGCOMM Workshop on Network & System Support for Games 2006 (NETGAMES 2006), Singapore, ACM Press, October 2006.  [bib]
 
 - C.E. Palazzi, G. Pau, M. Roccetti, S. Ferretti & M. Gerla,
 Wireless Home Entertainment Center: Reducing Last Hop Delays for Real-time Applications,
-in Proceedings of ACM SIGCHI International Conference on Advances in Computer Entertainment Technology (ACE 2006), Hollywood (USA), ACM Press, June 2006. [pdf] [bib]
+in Proceedings of ACM SIGCHI International Conference on Advances in Computer Entertainment Technology (ACE 2006), Hollywood (USA), ACM Press, June 2006.  [bib]
 
 - S. Ferretti & M. Roccetti,
 AC/DC: an Algorithm for Cheating Detection by Cheating,
-in Proceedings of the ACM International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV 2006), Newport, Rhode Island (USA), ACM Press, May 2006, 136-141. [pdf]
+in Proceedings of the ACM International Workshop on Network and Operating Systems Support for Digital Audio and Video (NOSSDAV 2006), Newport, Rhode Island (USA), ACM Press, May 2006, 136-141. 
 
 - S. Ferretti, M. Roccetti & J. Andrich,
 Living the TV Revolution: Unite MHP to the Web or Face IDTV Irrelevance!,
-in Proceedings of the 15th ACM International World Wide Web Conference (WWW 2006), Poster Track, Edinburgh (Scotland), W3C/ACM, May 2006. [pdf] [bib]
+in Proceedings of the 15th ACM International World Wide Web Conference (WWW 2006), Poster Track, Edinburgh (Scotland), W3C/ACM, May 2006.  [bib]
 
 - S. Ferretti, C.E. Palazzi, M. Roccetti, G. Pau & M. Gerla,
 Buscar el Levante por el Poniente: In Search of Fairness Through Interactivity in Massively Multiplayer Online Games,
-in Proceedings of the IEEE Communications and Networking Conference (CCNC 2006), Las Vegas (USA), IEEE Communications Society, January 2006, 1183-1187. [pdf] [bib]
+in Proceedings of the IEEE Communications and Networking Conference (CCNC 2006), Las Vegas (USA), IEEE Communications Society, January 2006, 1183-1187.  [bib]
 
 - S. Ferretti, C.E. Palazzi, M. Roccetti, G. Pau & M. Gerla,
 FILA, a Holistic Approach to Massive Online Gaming: Algorithm Comparison and Performance Analysis,
@@ -813,11 +813,11 @@ BEST PAPER AWARD: selected for publication in the ACM Journal of Computers in En
 
 - S. Ferretti & M. Roccetti,
 Fast Delivery of Game Events with an Optimistic Synchronization Mechanism in Massive Multiplayer Online Games,
-in Proceedings of ACM SIGCHI International Conference on Advances in Computer Entertainment Technology (ACE 2005), Valencia (Spain), ACM, June 2005, 405-412. [pdf] [bib]
+in Proceedings of ACM SIGCHI International Conference on Advances in Computer Entertainment Technology (ACE 2005), Valencia (Spain), ACM, June 2005, 405-412.  [bib]
 
 - S. Cacciaguerra, S. Ferretti, M. Roccetti & M. Roffilli,
 Car Racing through the Streets of the Web: a High-Speed 3D Game over a Fast Synchronization Service,
-in Proceedings of the 14th ACM International World Wide Web Conference (WWW 2005), Poster Track, Chiba (Japan), W3C/ACM, May 2005, 884-885. [pdf] [bib]
+in Proceedings of the 14th ACM International World Wide Web Conference (WWW 2005), Poster Track, Chiba (Japan), W3C/ACM, May 2005, 884-885.  [bib]
 
 - C.E. Palazzi, S. Ferretti, S. Cacciaguerra & M. Roccetti,
 A RIO-like Technique for Interactivity Loss Avoidance in Fast-Paced Multiplayer Online Games: a Preliminary Study,
@@ -826,15 +826,15 @@ in Proceedings of the 2nd ACM Annual International Workshop in Computer Game Des
 
 - C.E. Palazzi, S. Ferretti, S. Cacciaguerra & M. Roccetti,
 On Maintaining Interactivity in Event Delivery Synchronization for Mirrored Game Architectures,
-in Proceedings of the 1st IEEE International Workshop on Networking Issues in Multimedia Entertainment (NIME'04) - IEEE Global Telecommunications Conference Workshops (GLOBECOM 2004), Dallas (USA), IEEE Communications Society, November 2004, 157-165. [pdf] [bib]
+in Proceedings of the 1st IEEE International Workshop on Networking Issues in Multimedia Entertainment (NIME'04) - IEEE Global Telecommunications Conference Workshops (GLOBECOM 2004), Dallas (USA), IEEE Communications Society, November 2004, 157-165.  [bib]
 
 - S. Ferretti, M. Roccetti & S. Cacciaguerra,
 On Distributing Interactive Storytelling: Issues of Event Synchronization and a Solution,
-in Proceedings of the 2nd International Conference on Technologies for Interactive Digital Storytelling and Entertainment (TIDSE 2004), LNCS 3105, Darmstadt (Ge), June 2004, 219-231. [pdf] [bib]
+in Proceedings of the 2nd International Conference on Technologies for Interactive Digital Storytelling and Entertainment (TIDSE 2004), LNCS 3105, Darmstadt (Ge), June 2004, 219-231.  [bib]
 
 - S. Ferretti & M. Roccetti,
 Event Synchronization for Interactive Cyberdrama Generation on the Web: A Distributed Approach,
-in Proceedings of the 13th International World Wide Web Conference (WWW 2004), WWW2004 Poster Track, W3C/ACM, New York (USA), May 2004, 226-227. [pdf] [bib]
+in Proceedings of the 13th International World Wide Web Conference (WWW 2004), WWW2004 Poster Track, W3C/ACM, New York (USA), May 2004, 226-227.  [bib]
 
 - S. Ferretti & M. Roccetti,
 The Design and Performance of a Receiver-Initiated Event Delivery Synchronization Service for Interactive Multiplayer Games,
