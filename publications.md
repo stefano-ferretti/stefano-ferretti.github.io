@@ -23,12 +23,12 @@ permalink: /publications/
 Simulation Modelling Practice and Theory, Elsevier, Volume 127, 1-28, September 2023, 10.1016/j.simpat.2023.102780 [pdf].
 
 - M. Zichichi, G. D'Angelo, S. Ferretti, M. Marzolla,
-"Accountable Clouds through Blockchain",
-IEEE Access, IEEE Press, May 2023, pp. 1-17, 10.1109/ACCESS.2023.3276240 [pdf].
+"[Accountable Clouds through Blockchain](https://ieeexplore.ieee.org/document/10124222)",
+IEEE Access, IEEE Press, May 2023, pp. 1-17, 10.1109/ACCESS.2023.3276240.
 
 - M. Zichichi, L. Serena, S. Ferretti, G. D'Angelo,
-InDaMul: Incentivized Data Mules for Opportunistic Networking Through Smart Contracts and Decentralized Systems,
-in Distributed Ledger Technologies: Research and Practice, ACM, Volume 2, Issue 2, Article No.: 14, pp 1–28, https://doi.org/10.1145/3587696 [pdf].
+"[InDaMul: Incentivized Data Mules for Opportunistic Networking Through Smart Contracts and Decentralized Systems](https://dl.acm.org/doi/10.1145/3587696)",
+in Distributed Ledger Technologies: Research and Practice, ACM, Volume 2, Issue 2, Article No.: 14, pp 1–28, https://doi.org/10.1145/3587696.
 
 - S. Montagna, M. Pengo, S. Ferretti, C. Borghi, C. Ferri, G. Grassi, M.L. Muiesan, G. Parati,
 Machine learning in hypertension detection: a study on World Hypertension Day data',
@@ -39,8 +39,8 @@ Data Governance Through a Multi-DLT Architecture in View of the GDPR,
 in Cluster Computing, Springer, August 2022, DOI:10.1007/s10586-022-03691-3 [pdf].
 
 - S. Ferretti,
-On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection,
-in Computational Economics, Springer Nature, July 2022, DOI:10.1007/s10614-022-10288-w [pdf] [arxiv version].
+[On the Modeling and Simulation of Portfolio Allocation Schemes: an Approach based on Network Community Detection](https://link.springer.com/article/10.1007/s10614-022-10288-w),
+in Computational Economics, Springer Nature, July 2022, DOI:10.1007/s10614-022-10288-w.
 
 - M. Zichichi, S. Ferretti, V. Rodriguez-Doncel,
 Decentralized Personal Data Marketplaces: How Participation in a DAO Can Support the Production of Citizen-Generated Data.
@@ -51,7 +51,7 @@ Complex Queries over Decentralized Systems for Geodata Retrieval,
 in IET Networks, IET Research Journals, Wiley, March 2022, DOI: 10.1049/ntw2.12037 [pdf].
 
 - G. D'Angelo & S. Ferretti,
-Adaptive Parallel and Distributed Simulation of Complex Networks ,
+Adaptive Parallel and Distributed Simulation of Complex Networks,
 in Journal of Parallel and Distributed Computing, Elsevier, January 2022, Volume 163, Pages 30- 44, May 2022, DOI:10.1016/j.jpdc.2022.01.022.
 
 - L. Serena, G. D'Angelo, S. Ferretti,
@@ -309,7 +309,7 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 - M. Furini, M. Mariani, S. Montagna, S. Ferretti, "Conversational Skills of LLM-based Healthcare Chatbot for Personalized Communications", in Proc. of the International Conference on Information Technology for Social Good 2024, ACM, September 2024, Bremen, Germany.
 
 - L. Cassano, J. D'Abramo, S. Munir, S. Ferretti,
-"Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems",
+"[Trust and Resilience in Federated Learning Through Smart Contracts Enabled Decentralized Systems](https://www.arxiv.org/abs/2407.06862)",
 in Proc. of the 7th IEEE International Conference on Blockchain (Blockchain 2024), IEEE, August 2024, Copenhagen, Denmark
 
 - F. Imboccioli, G. Cialone, S. Ferretti,
@@ -321,11 +321,11 @@ in Proc. of the 5th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2024) 
 in Proc. of the 3rd Workshop on Telemedicine and e-Health evolution in the new era of social distancing (TELMED 2024) -- 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
 - S. Marasi, S. Ferretti,
-"Anti-Money Laundering in Cryptocurrencies Through Graph Neural Networks: A Comparative Study'',
+"[Anti-Money Laundering in Cryptocurrencies Through Graph Neural Networks: A Comparative Study](https://ieeexplore.ieee.org/document/10454631)'',
 in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2024), IEEE ComSoc, January 2024, Las Vegas, USA.
 
 - L. Gigli, F. Montori, M. Zichichi, L. Bedogni, S. Ferretti, M. Di Felice,
-"On the decentralization of Mobile Crowdsensing in Distributed Ledgers: an architectural vision'',
+"[On the decentralization of Mobile Crowdsensing in Distributed Ledgers: an architectural vision](https://mirkozichichi.me/assets/papers/44decentralization.pdf)'',
 in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2024), IEEE ComSoc, January 2024, Las Vegas, USA.
 
 - S. Munir, S. Ferretti,
