@@ -356,7 +356,7 @@ in Proc. of the IEEE ComSoc International Conference on Information and Communic
 in Proc. of the ACM International Conference on Information Technology for Social Good (GoodIT 2023), ACM, September 2023, Lisbon, Portugal.
 
 - S. Montagna, S. Ferretti, L.C. Klopfenstein, A. Florio, M.F. Pengo,
-"Data Decentralisation of LLM-Based Chatbot Systems in Chronic Disease Self-Management'',
+"[Data Decentralisation of LLM-Based Chatbot Systems in Chronic Disease Self-Management](https://dl.acm.org/doi/abs/10.1145/3582515.3609536)'',
 in Proc. of the ACM International Conference on Information Technology for Social Good (GoodIT 2023), ACM, September 2023, Lisbon, Portugal.
 
 - R. Benedetti, S. Montagna, M. Suffian, A. Bogliolo, S. Ferretti, B. Canonico, S. Papa, C. Ortolani,
