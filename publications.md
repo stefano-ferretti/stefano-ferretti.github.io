@@ -304,8 +304,10 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
-- L. Bedogni, S. Ferretti, "Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns", in Proc. of the IEEE Consumer Communications & Networking Conference
-(CCNC 2025), IEEE ComSoc, January 2025, Las Vegas, USA.
+- G. Aguzzi, M. Magnini, G.P. Salcuni, S. Ferretti, S. Montagna, "Applying Retrieval-Augmented Generation on Open LLMs
+for a Medical Chatbot Supporting Hypertensive Patients", in Proc. of the 23rd International Conference of the Italian Association for Artificial Intelligence, November 2024, Bolzano, Italy.
+
+- L. Bedogni, S. Ferretti, "Smart Contract Coordinated Privacy Preserving Crowd-Sensing Campaigns", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2025), IEEE ComSoc, January 2025, Las Vegas, USA.
 
 - S. Ferretti, G. D'Angelo, V. Ghini, "[On the Use of Heterogeneous Graph Neural Networks for Detecting Malicious Activities: a Case Study with Cryptocurrencies](https://dl.acm.org/doi/10.1145/3677117.3685009)'', in Proc. of the 4th International Workshop on Open Challenges in Online Social Networks - ACM Hypertext & Social Media 2024, ACM, September 2024, Poznan, Poland.
 
