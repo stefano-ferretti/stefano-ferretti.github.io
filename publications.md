@@ -6,6 +6,8 @@ permalink: /publications/
 
 # International Journals
 
+- M. Rossini, S. Ferretti, "A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
+
 - S. Montagna, D. Magno, S. Ferretti, M. Stelluti, A. Gona, C. Dionisi, G. Simonazzi, S. Martini, L. Corvaglia, A. Aceti, "[Combining artificial intelligence and conventional statistics to predict bronchopulmonary dysplasia in very preterm infants using routinely collected clinical variables](https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.27216), Pediatric Pulmonology, Wiley, August.~2024, DOI: 10.1002/ppul.27216.
 
 - S. Munir, R.A.S. Malick, S. Ferretti, "[A Network Analysis-Driven Framework for Factual Explainability of Knowledge Graphs](https://ieeexplore.ieee.org/document/10440345)", IEEE Access, IEEE Press, Feb. 2024.
