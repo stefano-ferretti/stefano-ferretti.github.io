@@ -370,7 +370,7 @@ in Proc. of the ACM International Conference on Information Technology for Socia
 in Proc. of the 18th Confrence on Computational Intelligence Methods for Bionformatics & Biostatistics (CIBB 23), Springer Lecture Notes in Bioinformatics (LNBI), Padova, September 2023.
 
 - F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella,
-"DLT-based Personal Data Access Control with Key-Redistribution'',
+"[DLT-based Personal Data Access Control with Key-Redistribution](https://ieeexplore.ieee.org/document/10338895)'',
 in Proc. of the Fifth International Conference on Blockchain Computing and Applications (BCCA2023), IEEE, July 2023, Kuwait City, Kuwait.
 
 - S. Munir, S. Ferretti,
