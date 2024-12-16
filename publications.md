@@ -37,7 +37,7 @@ Machine learning in hypertension detection: a study on World Hypertension Day da
 Journal of Medical Systems, Springer, 47, 1 (2023). https://doi.org/10.1007/s10916-022-01900-5.
 
 - M. Zichichi, S. Ferretti, G. D'Angelo, V. Rodriguez-Doncel,
-Data Governance Through a Multi-DLT Architecture in View of the GDPR,
+[Data Governance Through a Multi-DLT Architecture in View of the GDPR](https://link.springer.com/article/10.1007/s10586-022-03691-3),
 in Cluster Computing, Springer, August 2022, DOI:10.1007/s10586-022-03691-3.
 
 - S. Ferretti,
@@ -293,7 +293,7 @@ Fairness in Online Games, 252,
 Game Accessibility, 255,
 Game Event Synchronization, 256.
 
-- M. Roccetti & S. Ferretti,M.~Zichichi, G.~D'Angelo, S.~Ferretti, Mo.~Marzolla {\it ``Accountable Clouds through Blockchain''}, {\it IEEE Access}, May 2023, accepted for publication.
+- M. Roccetti & S. Ferretti,M. Zichichi, G. D'Angelo, S. Ferretti, Mo. Marzolla {\it ``Accountable Clouds through Blockchain''}, {\it IEEE Access}, May 2023, accepted for publication.
 Adaptive Playout Control Schemes for Speech over the Internet,
 in Encyclopedia of Information Science and Technology, I-V, (Mehdi Khosrow-Pour ed.), Idea Group Publishing, Hershey (USA), January 2005, 53-57. [bib]
 
@@ -325,7 +325,7 @@ in Proc. of the 7th IEEE International Conference on Blockchain (Blockchain 2024
 "[Decentralization of Learning and Trust in the Healthcare: Blockchain-driven Federated Learning for Alzheimer's MRI Image Classification](https://www.computer.org/csdl/proceedings-article/percom-workshops/2024/10502820/1WnroLN9pSw)",
 in Proc. of the 5th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2024) - 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
-- S. Montagna, G. Aguzzi, S. Ferretti, M.~Pengo, L.C. Klopfenstein, M. Ungolo, M. Magnini,
+- S. Montagna, G. Aguzzi, S. Ferretti, M. Pengo, L.C. Klopfenstein, M. Ungolo, M. Magnini,
 "[LLM-based Solutions for Healthcare Chatbots: a Comparative Analysis](https://ieeexplore.ieee.org/document/10503257)",
 in Proc. of the 3rd Workshop on Telemedicine and e-Health evolution in the new era of social distancing (TELMED 2024) -- 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
