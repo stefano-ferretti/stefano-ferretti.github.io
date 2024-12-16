@@ -322,7 +322,7 @@ for a Medical Chatbot Supporting Hypertensive Patients", in Proc. of the 23rd In
 in Proc. of the 7th IEEE International Conference on Blockchain (Blockchain 2024), IEEE, August 2024, Copenhagen, Denmark
 
 - F. Imboccioli, G. Cialone, S. Ferretti,
-"[Decentralization of Learning and Trust in the Healthcare: Blockchain-driven Federated Learning for Alzheimer's MRI Image Classification(https://www.computer.org/csdl/proceedings-article/percom-workshops/2024/10502820/1WnroLN9pSw)",
+"[Decentralization of Learning and Trust in the Healthcare: Blockchain-driven Federated Learning for Alzheimer's MRI Image Classification](https://www.computer.org/csdl/proceedings-article/percom-workshops/2024/10502820/1WnroLN9pSw)",
 in Proc. of the 5th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2024) - 22st International Conference on Pervasive Computing and Communications (PerCom 2024), IEEE, March 2024, Biarritz, France.
 
 - S. Montagna, G. Aguzzi, S. Ferretti, M.~Pengo, L.C. Klopfenstein, M. Ungolo, M. Magnini,
