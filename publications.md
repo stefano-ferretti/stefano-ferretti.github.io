@@ -8,7 +8,7 @@ permalink: /publications/
 
 - S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage", Computer Communications, Elsevier, Feb 2025, accepted for publication.
 
-- S. Montagna, S. Ferretti, L.C. Klopfenstein, M. Ungolo, M.F. Pengo, G. Aguzzi, M. Magnini, "[Privacy-preserving LLM-based Chatbots for Hypertensive Patient Self-management](https://doi.org/10.1016/j.smhl.2025.100552)", Smart Health, Elsevier, Feb 2025, accepted for publication.
+- S. Montagna, S. Ferretti, L.C. Klopfenstein, M. Ungolo, M.F. Pengo, G. Aguzzi, M. Magnini, "[Privacy-preserving LLM-based Chatbots for Hypertensive Patient Self-management](https://doi.org/10.1016/j.smhl.2025.100552)", Smart Health, Elsevier, Volume 36, June 2025, 100552.
 
 - F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella, "DLT-based Personal Data Access Control with Key-Redistribution", Cluster Computing, Springer, Dec. 2024, accepted for publication,
 
