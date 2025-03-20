@@ -6,7 +6,7 @@ permalink: /publications/
 
 # International Journals
 
-- S. Ferretti, G. D'Angelo, V. Ghini "[Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification](https://ieeexplore.ieee.org/document/10930500)", IEEE Access, IEEE Press, Mar 2025, 10.1109/ACCESS.2025.3552240.
+- S. Ferretti, G. D'Angelo, V. Ghini, "[Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification](https://ieeexplore.ieee.org/document/10930500)", IEEE Access, IEEE Press, Mar 2025, 10.1109/ACCESS.2025.3552240.
 
 - S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "[Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage](https://doi.org/10.1016/j.comcom.2025.108112)", Computer Communications, Elsevier, Mar 2025, 10.1016/j.comcom.2025.108112.
 
