@@ -6,9 +6,9 @@ permalink: /publications/
 
 # International Journals
 
-- S. Ferretti, G. D'Angelo, V. Ghini "Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification", IEEE Access, IEEE Press, Mar 2025, accepted for publication.
+- S. Ferretti, G. D'Angelo, V. Ghini "[Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification](https://ieeexplore.ieee.org/document/10930500)", IEEE Access, IEEE Press, Mar 2025, 10.1109/ACCESS.2025.3552240.
 
-- S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage", Computer Communications, Elsevier, Feb 2025, accepted for publication.
+- S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "[Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage](https://doi.org/10.1016/j.comcom.2025.108112)", Computer Communications, Elsevier, Mar 2025, 10.1016/j.comcom.2025.108112.
 
 - S. Montagna, S. Ferretti, L.C. Klopfenstein, M. Ungolo, M.F. Pengo, G. Aguzzi, M. Magnini, "[Privacy-preserving LLM-based Chatbots for Hypertensive Patient Self-management](https://doi.org/10.1016/j.smhl.2025.100552)", Smart Health, Elsevier, Volume 36, June 2025, 100552.
 
