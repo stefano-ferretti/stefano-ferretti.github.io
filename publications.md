@@ -314,6 +314,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- L. Serena, S. Ferretti, M. Marzolla, G. D'Angelo, "An NFT-Based Solution to Enhance Trust in Decentralized Marketplaces", in Proc. of Workshop on Web3 Applications and the eVolution of dEcentralized finance (WAVE) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
+
 - L. Bedogni, S. Ferretti, "Incentivizing Decentralized Privacy-Preserving Crowd-Sensing with Smart Contracts", in Proc. of Workshop on Sensing, Algorithms, and Intelligent Applications (SAIA-2025) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
 
 - S. Ferretti, G. D'Angelo, V. Ghini, M.B. Tomasone, "Detecting Smart Contract Vulnerabilities using Transformers and LLMs", in Proc. of 6th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2025) - 23rd International Conference on Pervasive Computing and Communications (PerCom 2025), IEEE, March 2025, Washington (USA)
