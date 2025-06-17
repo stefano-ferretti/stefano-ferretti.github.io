@@ -6,13 +6,13 @@ permalink: /publications/
 
 # International Journals
 
+- F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella, "[DLT-based Personal Data Access Control with Key-Redistribution](https://link.springer.com/article/10.1007/s10586-024-05016-y)", Cluster Computing 28, 404 (2025). https://doi.org/10.1007/s10586-024-05016-y,
+
 - S. Ferretti, G. D'Angelo, V. Ghini, "[Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification](https://ieeexplore.ieee.org/document/10930500)", IEEE Access, IEEE Press, Mar 2025, 10.1109/ACCESS.2025.3552240.
 
 - S. Ferretti, L. Cassano, G. Cialone, J. D'Abramo, F. Imboccioli, "[Decentralized Coordination for Resilient Federated Learning: A Blockchain-based Approach with Smart Contracts and Decentralized Storage](https://doi.org/10.1016/j.comcom.2025.108112)", Computer Communications, Elsevier, Mar 2025, 10.1016/j.comcom.2025.108112.
 
 - S. Montagna, S. Ferretti, L.C. Klopfenstein, M. Ungolo, M.F. Pengo, G. Aguzzi, M. Magnini, "[Privacy-preserving LLM-based Chatbots for Hypertensive Patient Self-management](https://doi.org/10.1016/j.smhl.2025.100552)", Smart Health, Elsevier, Volume 36, June 2025, 100552.
-
-- F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella, "DLT-based Personal Data Access Control with Key-Redistribution", Cluster Computing, Springer, Dec. 2024, accepted for publication,
 
 - M. Rossini, S. Ferretti, "A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
 
