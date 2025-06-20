@@ -14,7 +14,7 @@ permalink: /publications/
 
 - S. Montagna, S. Ferretti, L.C. Klopfenstein, M. Ungolo, M.F. Pengo, G. Aguzzi, M. Magnini, "[Privacy-preserving LLM-based Chatbots for Hypertensive Patient Self-management](https://doi.org/10.1016/j.smhl.2025.100552)", Smart Health, Elsevier, Volume 36, June 2025, 100552.
 
-- M. Rossini, S. Ferretti, "A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
+- M. Rossini, S. Ferretti, "[A Comparative Evaluation of Deep Learning Techniques for Smart Contract Vulnerability Classification](https://dl.acm.org/doi/10.1145/3703462)", Distributed Ledger Technologies: Research and Practice, ACM, October 2024, accepted for publication.
 
 - S. Montagna, D. Magno, S. Ferretti, M. Stelluti, A. Gona, C. Dionisi, G. Simonazzi, S. Martini, L. Corvaglia, A. Aceti, "[Combining artificial intelligence and conventional statistics to predict bronchopulmonary dysplasia in very preterm infants using routinely collected clinical variables](https://onlinelibrary.wiley.com/doi/full/10.1002/ppul.27216), Pediatric Pulmonology, Wiley, August.~2024, DOI: 10.1002/ppul.27216.
 
