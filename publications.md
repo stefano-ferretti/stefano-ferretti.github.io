@@ -314,6 +314,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Decentralized Health Data Management: An IPFS-based Approach and Performance Evaluation", in Proc. of 33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025), IEEE, July 2025, Catania (Italy).
+
 - L. Serena, S. Ferretti, M. Marzolla, G. D'Angelo, "An NFT-Based Solution to Enhance Trust in Decentralized Marketplaces", in Proc. of Workshop on Web3 Applications and the eVolution of dEcentralized finance (WAVE) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
 
 - L. Bedogni, S. Ferretti, "Incentivizing Decentralized Privacy-Preserving Crowd-Sensing with Smart Contracts", in Proc. of Workshop on Sensing, Algorithms, and Intelligent Applications (SAIA-2025) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
