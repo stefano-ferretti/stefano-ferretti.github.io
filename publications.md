@@ -6,6 +6,8 @@ permalink: /publications/
 
 # International Journals
 
+- F. Blefari, G. D'Angelo, S. Ferretti, A. Furfaro, P. Giaccone, M. Marzolla, F.A. Pironti, L. Serena, "A Framework for the Development of Sustainable Smart Services for the Countryside", IEEE Computer, IEEE, Jul 2025, accepted for publication.
+
 - F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella, "[DLT-based Personal Data Access Control with Key-Redistribution](https://link.springer.com/article/10.1007/s10586-024-05016-y)", Cluster Computing 28, 404 (2025). https://doi.org/10.1007/s10586-024-05016-y,
 
 - S. Ferretti, G. D'Angelo, V. Ghini, "[Enhancing Anti-Money Laundering Frameworks: An Application of Graph Neural Networks in Cryptocurrency Transaction Classification](https://ieeexplore.ieee.org/document/10930500)", IEEE Access, IEEE Press, Mar 2025, 10.1109/ACCESS.2025.3552240.
