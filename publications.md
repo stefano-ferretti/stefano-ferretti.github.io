@@ -31,7 +31,7 @@ permalink: /publications/
 - N. Pocher, M. Zichichi, F. Merizzi, M.Z. Shafiq, S. Ferretti, "[Detecting Anomalous Cryptocurrency Transactions: an AML/CFT Application of Machine Learning-based Forensics](https://link.springer.com/article/10.1007/s12525-023-00654-3)", Electronic Markets, Springer, May 2023, accepted for publication.
 
 - L. Serena, M. Marzolla, G. D'Angelo, S. Ferretti,
-"A Review of Multilevel Modeling and Simulation for Human Mobility and Behavior",
+"[A Review of Multilevel Modeling and Simulation for Human Mobility and Behavior](https://www.sciencedirect.com/science/article/pii/S1569190X23000576)",
 Simulation Modelling Practice and Theory, Elsevier, Volume 127, 1-28, September 2023, 10.1016/j.simpat.2023.102780.
 
 - M. Zichichi, G. D'Angelo, S. Ferretti, M. Marzolla,
