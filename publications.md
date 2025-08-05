@@ -63,27 +63,27 @@ Sensors 2022, 22, 6260. https://doi.org/10.3390/s22166260.
 in IET Networks, IET Research Journals, Wiley, March 2022, DOI: 10.1049/ntw2.12037.
 
 - G. D'Angelo & S. Ferretti,
-Adaptive Parallel and Distributed Simulation of Complex Networks,
+[Adaptive Parallel and Distributed Simulation of Complex Networks](https://www.sciencedirect.com/science/article/abs/pii/S0743731522000284),
 in Journal of Parallel and Distributed Computing, Elsevier, January 2022, Volume 163, Pages 30- 44, May 2022, DOI:10.1016/j.jpdc.2022.01.022.
 
 - L. Serena, G. D'Angelo, S. Ferretti,
-"Security Analysis of Distributed Ledgers and Blockchains through Agent-based Simulation",
+"[Security Analysis of Distributed Ledgers and Blockchains through Agent-based Simulation](https://www.sciencedirect.com/science/article/pii/S1569190X21001131)",
 in Simulation Modelling Practice and Theory, Elsevier, Volume 114, 2022, ISSN 1569-190X, DOI:10.1016/j.simpat.2021.102413 [arxiv version].
 
 - L. Serena, S. Ferretti, G. D'Angelo,
-"Cryptocurrencies Activity as a Complex Network: Analysis of Transactions Graphs",
+"[Cryptocurrencies Activity as a Complex Network: Analysis of Transactions Graphs](https://link.springer.com/article/10.1007/s12083-021-01220-4)",
 in Peer-to-Peer Networking and Applications (PPNA), Springer, August 2021.
 
 - M. Zichichi, S. Ferretti, G. D'Angelo,
-"A Framework based on Distributed Ledger Technologies for Data Management and Services in Intelligent Transportation Systems'',
+"[A Framework based on Distributed Ledger Technologies for Data Management and Services in Intelligent Transportation Systems](https://ieeexplore.ieee.org/document/9102237)",
 IEEE Access, IEEE, Volume 8, May 2020, Pages 100384-100402.
 
 - S. Ferretti & G. D'Angelo,
-On the Ethereum blockchain structure: a complex networks theory perspective,
+[On the Ethereum blockchain structure: a complex networks theory perspective](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.5493),
 in Concurrency and Computation: Practice and Experience, John Wiley and Sons Ltd, June 2020,, [arxiv version].
 
 - G. D'Angelo, S. Ferretti & M. Marzolla,
-Fault Tolerant Adaptive Parallel and Distributed Simulation through Functional Replication,
+[Fault Tolerant Adaptive Parallel and Distributed Simulation through Functional Replication](https://www.sciencedirect.com/science/article/pii/S1569190X18301394),
 in Simulation Modelling Practice and Theory, Elsevier, Volume 93, May 2019, Pages 192-207, [arxiv version].
 
 - R. De Michele, S. Ferretti, M. Furini,
@@ -106,11 +106,11 @@ in Multimedia Tools and Applications, Springer, Volume 77, Issue 13, July 2018, 
 Draft version avaiable as a Tech. Rep. arXiv:1709.09708. 
 
 - C. Prandi, S. Mirri, S. Ferretti & P. Salomoni,
-On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City,
+[On the Need of Trustworthy Sensing and Crowdsourcing for Urban Accessibility in Smart City](https://dl.acm.org/doi/10.1145/3133327),
 in ACM Transactions on Internet Technology, ACM Press, Volume 18, Issue 1, October 2017.
 
 - G. D'Angelo, S. Ferretti & V. Ghini,
-Multi-level Simulation of Internet of Things on Smart Territories,
+[Multi-level Simulation of Internet of Things on Smart Territories](https://www.sciencedirect.com/science/article/pii/S1569190X16302507),
 in Simulation Modelling Practice and Theory, Elsevier, Volume 73, April 2017, Pages 3-21 
 Draft version avaiable as a Tech. Rep. arXiv:1611.01325. 
 
@@ -128,7 +128,7 @@ Automatic Web Content Personalization Through Reinforcement Learning,
 in Journal of Systems and Software, Elsevier, Volume 121, November 2016, Pages 157–169. 
 
 - S. Ferretti, V. Ghini & F. Panzieri,
-A Survey on Handover Management in Mobility Architectures,
+[A Survey on Handover Management in Mobility Architectures](https://www.sciencedirect.com/science/article/pii/S1389128615004491),
 in Computer Networks, Elsevier, Volume 94, 15 January 2016, pp. 390-413 
 Draft version avaiable as a Tech. Rep. arXiv:1509.01396. 
 
@@ -137,7 +137,7 @@ On Personalizing Web Content Through Reinforcement Learning,
 in Journal Universal Access in the Information Society (UAIS), Springer, Volume 16, Issue 2, 1 June 2017, Pages 395-410 
 
 - S. Ferretti,
-Self-Healing Protocols for Connectivity Maintenance in Unstructured Overlays,
+[Self-Healing Protocols for Connectivity Maintenance in Unstructured Overlays](https://link.springer.com/article/10.1007/s12083-015-0384-5),
 in Peer-to-Peer Networking and Applications, Springer, Volume 9, Issue 6, 1 November 2016, Pages 1270-1292 
 Draft version avaiable as a Tech. Rep. arXiv:1506.04512. 
 
