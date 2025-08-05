@@ -59,7 +59,7 @@ Decentralized Personal Data Marketplaces: How Participation in a DAO Can Support
 Sensors 2022, 22, 6260. https://doi.org/10.3390/s22166260.
 
 - M. Zichichi, L. Serena, S. Ferretti, G. D'Angelo,
-Complex Queries over Decentralized Systems for Geodata Retrieval,
+[Complex Queries over Decentralized Systems for Geodata Retrieval](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ntw2.12037),
 in IET Networks, IET Research Journals, Wiley, March 2022, DOI: 10.1049/ntw2.12037.
 
 - G. D'Angelo & S. Ferretti,
