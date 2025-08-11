@@ -316,6 +316,10 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- G. Cacciapuoti, C.A. Cartarasa, D. Cavalca, L. Bedogni, S. Ferretti, "Towards Anonymous Crowdsensing: A Smart Contract-Mediated Privacy Framework", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague, Czech Republic.
+
+- G. D'Angelo, S. Ferretti, M. Marzolla, "Performance evaluation of a self-clustering heuristic for adaptive PADS", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague, Czech Republic.
+
 - F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Decentralized Health Data Management: An IPFS-based Approach and Performance Evaluation", in Proc. of 33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025), IEEE, July 2025, Catania (Italy).
 
 - L. Serena, S. Ferretti, M. Marzolla, G. D'Angelo, "An NFT-Based Solution to Enhance Trust in Decentralized Marketplaces", in Proc. of Workshop on Web3 Applications and the eVolution of dEcentralized finance (WAVE) - 2025 IEEE Symposium on Computers and Communications (ISCC), IEEE, July 2025.
