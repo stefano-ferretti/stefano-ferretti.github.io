@@ -316,9 +316,11 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
-- G. Cacciapuoti, C.A. Cartarasa, D. Cavalca, L. Bedogni, S. Ferretti, "Towards Anonymous Crowdsensing: A Smart Contract-Mediated Privacy Framework", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague, Czech Republic.
+- A. Arruzzoli, M. Zichichi, M. Palmirani, L. Papalia, C. Bomprezzi, S. Ferretti, "A Multi-Chain Approach to Transparent and Accountable Legislative Processes", in Proc. of the Hawaii International Conference on System Sciences (HICSS), IEEE, January 2026, Hawaii (USA).
 
-- G. D'Angelo, S. Ferretti, M. Marzolla, "Performance evaluation of a self-clustering heuristic for adaptive PADS", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague, Czech Republic.
+- G. Cacciapuoti, C.A. Cartarasa, D. Cavalca, L. Bedogni, S. Ferretti, "Towards Anonymous Crowdsensing: A Smart Contract-Mediated Privacy Framework", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague (Czech Republic).
+
+- G. D'Angelo, S. Ferretti, M. Marzolla, "Performance evaluation of a self-clustering heuristic for adaptive PADS", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague (Czech Republic).
 
 - F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Decentralized Health Data Management: An IPFS-based Approach and Performance Evaluation", in Proc. of 33rd IEEE International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE 2025), IEEE, July 2025, Catania (Italy).
 
