@@ -322,6 +322,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 - A. Iaria, S. Ferretti, M. Zichichi, V. Ghini, "Towards Next Generation Domain Services: A Committee based Privacy Scheme leveraging Move on IOTA", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services, IEEE ComSec, November 2025, Zurich (Switzerland).
 
+- G. Terenzi, S. Ferretti, "Systemic Risk in Ethereum's Restaking Architecture: An Empirical Study of Liquid Restaking Protocols", in Proc. of Workshop on Transparency, Regulation, and Analytics in Crypto-Asset Ecosystems (TRACE) - 7th Conference on Blockchain Research & Applications for Innovative Networks and Services, IEEE ComSec, November 2025, Zurich (Switzerland).
+
 - G. Cacciapuoti, C.A. Cartarasa, D. Cavalca, L. Bedogni, S. Ferretti, "Towards Anonymous Crowdsensing: A Smart Contract-Mediated Privacy Framework", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague (Czech Republic).
 
 - G. D'Angelo, S. Ferretti, M. Marzolla, "Performance evaluation of a self-clustering heuristic for adaptive PADS", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague (Czech Republic).
