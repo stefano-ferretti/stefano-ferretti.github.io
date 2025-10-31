@@ -320,11 +320,11 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 - A. Arruzzoli, M. Zichichi, M. Palmirani, L. Papalia, C. Bomprezzi, S. Ferretti, "A Multi-Chain Approach to Transparent and Accountable Legislative Processes", in Proc. of the Hawaii International Conference on System Sciences (HICSS), IEEE, January 2026, Hawaii (USA).
 
-- S. Samoggia, S. Ferretti, L. Serena, M. Marzolla, G. D'Angelo, "A Graph-Theoretical Analysis of the Lightning Network", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services, IEEE ComSec, November 2025, Zurich (Switzerland).
+- S. Samoggia, S. Ferretti, L. Serena, M. Marzolla, G. D'Angelo, "A Graph-Theoretical Analysis of the Lightning Network", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), IEEE ComSoc, November 2025, Zurich (Switzerland).
 
-- A. Iaria, S. Ferretti, M. Zichichi, V. Ghini, "Towards Next Generation Domain Services: A Committee based Privacy Scheme leveraging Move on IOTA", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services, IEEE ComSec, November 2025, Zurich (Switzerland).
+- A. Iaria, S. Ferretti, M. Zichichi, V. Ghini, "Towards Next Generation Domain Services: A Committee based Privacy Scheme leveraging Move on IOTA", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), IEEE ComSoc, November 2025, Zurich (Switzerland).
 
-- G. Terenzi, S. Ferretti, "Systemic Risk in Ethereum's Restaking Architecture: An Empirical Study of Liquid Restaking Protocols", in Proc. of Workshop on Transparency, Regulation, and Analytics in Crypto-Asset Ecosystems (TRACE) - 7th Conference on Blockchain Research & Applications for Innovative Networks and Services, IEEE ComSec, November 2025, Zurich (Switzerland).
+- G. Terenzi, S. Ferretti, "Systemic Risk in Ethereum's Restaking Architecture: An Empirical Study of Liquid Restaking Protocols", in Proc. of Workshop on Transparency, Regulation, and Analytics in Crypto-Asset Ecosystems (TRACE) - 7th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), IEEE ComSoc, November 2025, Zurich (Switzerland).
 
 - G. Cacciapuoti, C.A. Cartarasa, D. Cavalca, L. Bedogni, S. Ferretti, "Towards Anonymous Crowdsensing: A Smart Contract-Mediated Privacy Framework", in Proc. of the 2025 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2025, Prague (Czech Republic).
 
