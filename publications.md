@@ -318,6 +318,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Network Efficiency of Centralized and Decentralized Health Data Systems", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2026), IEEE ComSoc, January 2026, Las Vegas, USA.
+
 - A. Arruzzoli, M. Zichichi, M. Palmirani, L. Papalia, C. Bomprezzi, S. Ferretti, "A Multi-Chain Approach to Transparent and Accountable Legislative Processes", in Proc. of the Hawaii International Conference on System Sciences (HICSS), IEEE, January 2026, Hawaii (USA).
 
 - S. Samoggia, S. Ferretti, L. Serena, M. Marzolla, G. D'Angelo, "A Graph-Theoretical Analysis of the Lightning Network", in Proc. of 7th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS), IEEE ComSoc, November 2025, Zurich (Switzerland).
