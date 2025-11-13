@@ -6,7 +6,7 @@ permalink: /publications/
 
 # International Journals
 
-- G. Aguzzi, M. Magnini, A. Farahmand, S. Ferretti, M·F. Pengo, S. Montagna, "RAG-Enhanced Open SLMs for Hypertension Management Chatbots", Journal of Medical Systems, Springer, October 2025, accepted for publication.
+- G. Aguzzi, M. Magnini, A. Farahmand, S. Ferretti, M·F. Pengo, S. Montagna, "[RAG-Enhanced Open SLMs for Hypertension Management Chatbots](https://link.springer.com/content/pdf/10.1007/s10916-025-02297-7.pdf)", Journal of Medical Systems, Springer, October 2025, accepted for publication.
 
 - F. Blefari, G. D'Angelo, S. Ferretti, A. Furfaro, P. Giaccone, M. Marzolla, F.A. Pironti, L. Serena, "A Framework for the Development of Sustainable Smart Services for the Countryside", IEEE Computer, IEEE, DOI: 10.1109/MC.2025.3592245, Jul 2025.
 
