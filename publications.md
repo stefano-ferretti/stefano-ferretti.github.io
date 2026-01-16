@@ -318,6 +318,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- A. Arruzzoli, S. Ferretti, M. Zichichi, L. Papalia, C. Bomprezzi, M. Palmirani, "Implementing Role-Based Access Control through Multi-Layered Blockchain Solutions", in Proc. of the 7th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2026) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
+
 - F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Network Efficiency of Centralized and Decentralized Health Data Systems", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2026), IEEE ComSoc, January 2026, Las Vegas, USA.
 
 - A. Arruzzoli, M. Zichichi, M. Palmirani, L. Papalia, C. Bomprezzi, S. Ferretti, "A Multi-Chain Approach to Transparent and Accountable Legislative Processes", in Proc. of the Hawaii International Conference on System Sciences (HICSS), IEEE, January 2026, Hawaii (USA).
