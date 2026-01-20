@@ -318,6 +318,10 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- C. Aguzzi, S. Montagna, S. Ferretti, "Privacy Leakage in Small Agentic Healthcare Models: An Empirical Analysis", in Proc. of the 5th International Workshop on Telemedicine and e-Health in the Digital Society (TELMED) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
+
+- A. Farahmand, S. Montagna, A. Bogliolo, S. Ferretti, M. Magnini, "Performant and Small: Can We Have Both? SLMs on Mobile Devices for Healthcare Chatbot", in Proc. of the 5th International  Workshop on Telemedicine and e-Health in the Digital Society (TELMED) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
+
 - A. Arruzzoli, S. Ferretti, M. Zichichi, L. Papalia, C. Bomprezzi, M. Palmirani, "Implementing Role-Based Access Control through Multi-Layered Blockchain Solutions", in Proc. of the 7th Workshop on Blockchain theoRy and ApplicatIoNs (BRAIN 2026) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
 
 - F. Franco, A. Bogliolo, S. Montagna, L. Bedogni, S. Ferretti, "Network Efficiency of Centralized and Decentralized Health Data Systems", in Proc. of the IEEE Consumer Communications & Networking Conference (CCNC 2026), IEEE ComSoc, January 2026, Las Vegas, USA.
