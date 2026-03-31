@@ -8,7 +8,7 @@ permalink: /publications/
 
 - G. Aguzzi, M. Magnini, A. Farahmand, S. Ferretti, M·F. Pengo, S. Montagna, "[RAG-Enhanced Open SLMs for Hypertension Management Chatbots](https://link.springer.com/content/pdf/10.1007/s10916-025-02297-7.pdf)", Journal of Medical Systems, Springer, Volume 49, article number 159, (2025), https://doi.org/10.1007/s10916-025-02297-7
 
-- F. Blefari, G. D'Angelo, S. Ferretti, A. Furfaro, P. Giaccone, M. Marzolla, F.A. Pironti, L. Serena, "A Framework for the Development of Sustainable Smart Services for the Countryside", IEEE Computer, IEEE, DOI: 10.1109/MC.2025.3592245, Jul 2025.
+- F. Blefari, G. D'Angelo, S. Ferretti, A. Furfaro, P. Giaccone, M. Marzolla, F.A. Pironti, L. Serena, "[A Framework for the Development of Sustainable Smart Services for the Countryside](https://ieeexplore.ieee.org/document/11285915)", IEEE Computer, IEEE, DOI: 10.1109/MC.2025.3592245, Jul 2025.
 
 - F. Barbara, M. Zichichi, S. Ferretti, C. Schifanella, "[DLT-based Personal Data Access Control with Key-Redistribution](https://link.springer.com/article/10.1007/s10586-024-05016-y)", Cluster Computing 28, 404 (2025). https://doi.org/10.1007/s10586-024-05016-y,
 
