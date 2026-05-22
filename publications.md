@@ -318,6 +318,14 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- U. Pollarini, A. Iaria, G. D'Angelo, V. Ghini, S. Ferretti, "Securing User-Controlled Health Data Sharing with Blockchain and Decentralized Storage", in Proc. of the International Conference on Blockchain Research and Applications (BCRA 2026), Springer, Palermo, Italy.
+
+-  A. Iaria, M. Zichichi, L. Pap, S. Ferretti, "Native Account Abstraction Beyond Ethereum: Design and Benchmarking on a Move-based Ledger", in Proc. of the International Conference on Blockchain Research and Applications (BCRA 2026), Springer, Palermo, Italy.
+
+- A. Iaria, M. Zichichi, L. Pap, S. Ferretti, "Threshold Social Recovery for the Italian Public Digital Identity System", in Proc. of the 8th Distributed Ledger Technology Workshop (DLT 2026), CEUR Workshop Proceedings, June 2026, Pula, Italy.
+
+- A. Arruzzoli, M. Palmirani, L. Papalia, C. Bomprezzi, M. Zichichi, S. Ferretti, "A Security Analysis of Cross-Chain Bridges in Multi-Chain Architectures for Institutional Collaboration", in Proc. of the 8th Distributed Ledger Technology Workshop (DLT 2026), CEUR Workshop Proceedings, June 2026, Pula, Italy.
+
 - C. Aguzzi, S. Montagna, S. Ferretti, "Privacy Leakage in Small Agentic Healthcare Models: An Empirical Analysis", in Proc. of the 5th International Workshop on Telemedicine and e-Health in the Digital Society (TELMED) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
 
 - A. Farahmand, S. Montagna, A. Bogliolo, S. Ferretti, M. Magnini, "Performant and Small: Can We Have Both? SLMs on Mobile Devices for Healthcare Chatbot", in Proc. of the 5th International  Workshop on Telemedicine and e-Health in the Digital Society (TELMED) - 24th International Conference on Pervasive Computing and Communications (PerCom 2026), IEEE, March 2026, Pisa (Italy).
