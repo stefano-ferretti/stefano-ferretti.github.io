@@ -6,6 +6,8 @@ permalink: /publications/
 
 # International Journals
 
+- L. Serena, M. Marzolla, G. D'Angelo, S. Ferretti, "GEMMA: a Metamodel for Multilevel Modeling and Simulation", Journal of Software and Systems Modeling, Springer, May 2026, accepted for publication
+
 - G. Aguzzi, M. Magnini, A. Farahmand, S. Ferretti, M·F. Pengo, S. Montagna, "[RAG-Enhanced Open SLMs for Hypertension Management Chatbots](https://link.springer.com/content/pdf/10.1007/s10916-025-02297-7.pdf)", Journal of Medical Systems, Springer, Volume 49, article number 159, (2025), https://doi.org/10.1007/s10916-025-02297-7
 
 - F. Blefari, G. D'Angelo, S. Ferretti, A. Furfaro, P. Giaccone, M. Marzolla, F.A. Pironti, L. Serena, "[A Framework for the Development of Sustainable Smart Services for the Countryside](https://ieeexplore.ieee.org/document/11285915)", IEEE Computer, IEEE, DOI: 10.1109/MC.2025.3592245, Jul 2025.
