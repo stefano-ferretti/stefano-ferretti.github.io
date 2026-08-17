@@ -320,6 +320,8 @@ in Wireless Internet Handbook: Technologies, Standards and Applications, (B. Fur
 
 # International Conferences & Workshops
 
+- F. Apollonio, A. Melis, L. Bedogni, L. Rinieri, G. D'Angelo, S. Ferretti, "A Cooperative Crowd-Based Protocol for Privacy Preservation in Location-Based Services", in Proc.~of the 2026 IEEE International Symposium on Distributed Simulation and Real Time Applications (DS-RT 2025), IEEE, September 2026, Padova, Italy.
+
 - F. Franco, A. Michienzi, S. Montagna, A. Bogliolo, S. Ferretti, L. Bedogni, "A Smart Contract Architecture for Patient-Controlled Access to  Medical Records", in Proc. of the ACM 6th International Conference on Information Technology for Social Good (GoodIT26), ACM, September 2026, Pisa, Italy.
 
 - U. Pollarini, A. Iaria, G. D'Angelo, V. Ghini, S. Ferretti, "Securing User-Controlled Health Data Sharing with Blockchain and Decentralized Storage", in Proc. of the International Conference on Blockchain Research and Applications (BCRA 2026), Springer, Palermo, Italy.
